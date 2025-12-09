@@ -1,0 +1,1184 @@
+{
+    "acts": [
+        {
+            "act": "ACT 1",
+            "tracks": [
+                {
+                    "order": 1,
+                    "id": "opening",
+                    "title_en": "Opening",
+                    "title_ko": "Opening Ment",
+                    "lyrics_raw": [
+                        {
+                            "speaker": "(Press Secretary - 라디오 효과)",
+                            "lyrics": "국민 여러분들께 안타까운 소식을 전하게 되어 매우 유감입니다. \n오늘 오후 8시 25분, 우리 국민의 정신적 지도자였던 에바 페론 여사가 \n서거하셨습니다."
+                        }
+                    ]
+                },
+                {
+                    "order": 2,
+                    "id": "requiem",
+                    "title_en": "Requiem",
+                    "title_ko": "레퀴엠",
+                    "lyrics_raw": [
+                        {
+                            "speaker": "",
+                            "lyrics": "1952. July. 26th"
+                        },
+                        {
+                            "speaker": "(CHORUS)",
+                            "lyrics": "Re qui-em Ae ter-nam Do-na-E vi--ta \nRe-qui-em Ae-ter-nam Do-na-E-vi--ta \nRe-qui-em Ae-ter-nam Do-na-E-vi--ta \nRe-qui-em E-vi-ta Re qui-em E-vi-ta, \nE-vi-ta, E-vi-ta, E-vi ta, E-vi-ta, E--vi-ta \n\n(간주) \n\nRe-qui-em Ae-ter-nam Do-na-E-vi--ta \nRe-qui-em Ae-ter-nam Do-na-E-vi--ta \nRe-qui-em E-vi-ta Re qui-em E-vi-ta, \nE-vi-ta, E-vi-ta, E-vi ta, E-vi-ta \n"
+                        }
+                    ]
+                },
+                {
+                    "order": 3,
+                    "id": "oh_what_a_circus",
+                    "title_en": "Oh, What a Circus",
+                    "title_ko": "오 멋진 서커스, 오 멋진 쇼",
+                    "lyrics_raw": [
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "이 멋진 서커스\n이 멋진 쇼\n아르젠티나 국민 모두 \n울며 부르짖네 그 이름 에바 페론\n밤낮도 없이- \n애도하며 깊은 절망에 빠져 \n헤어나오질 못하네\n이해할 수 없어\n이 멋진 퇴장 대단했어\n화려한 막은 내렸지만\n너를 기억하겠지 에바 페론\n완벽한 엔딩\n이 세상 모두가 그녈 지켜보네 \n한 여자의 죽음을 \n기억해 주려나\n(대체) 누굴까 산타 에비타\n왜 이리 모두 슬퍼하는 걸까 \n하늘이 내린 여신이었나 \n그녀의 존재 대체 뭐였나\n그래 좋아 좀 멋있었어\n수 많은 사람들 모여\n울며 외치는 그 이름 에바 페론\n이젠 끝났어\n다 꿈에서 깨어나 말하겠지 \n남은 건 하나도 없어\n우린 속았다고\n"
+                        },
+                        {
+                            "speaker": "(CHORUS)",
+                            "lyrics": "Salve Regina Mater Miseri Cordiae          \n살베 레지나 마테 미세리 콜디에\nVita Dulce Do Et spesnostra                  \n비타 둘체 도 에 스페스노스트라\nSalve, Salve Regina                    \n살베 살베 레지나\nAd Te Clamamus exules Filii Eva    \n아 테 클라마무스 엑스우레스 필리이 에바\nAd Te Suspiramus gementes                  \n아 테 수스피라무스 제멘테스\nEt Flentes O Clemens O Pia          \n에 플렌테스 오 클레멘스 오 피아\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "넌 실패한 거야 에비타 \n거대한 환상만 안겨주고 \n남겨진 실망 쓰라린 상처\n저들을 두고 떠나버렸어\n바보들 너흰 틀렸어 \n그래 기도해 하지만 끝난 거야\n(너희) 여왕은 (이미) 죽었어\n죽었다고 영원히-\n천 구백 사십 오 년 시작된 \n그 쇼는 정말 즐거웠지만\n이제 더 이상 스타가 없어 \n남은 건- 거대한 빚더미\n따분한 정치보다 공연을 \n촌스런 이념보다 패션을 \n냉정한 계산보다 격려를 \n참(넌) 용감하게 그냥 밀어 부쳤지 \n난 도대체 내가 뭐길래\n혼자 고갤 들고있나 \n왜 저들과는 다른가 \n기회주의자? 아님 반역자?\n난 열일곱부터 지금껏 \n내 나라가 찢겨지는 그 아픔을 보았어\n그녀만 죽은 게 아냐\n바보들 너흰 틀렸어 \n그래 기도해 하지만 끝난 거야 \n(너희) 여왕은 이미 죽었어 \n죽었다고 영원히\nSalve Regina Mater Miseri Cordiae\n살베 레지나 마테 미세리 콜디에\nVita Dulce Do Et spesnostra          \n비타 둘체 도 에 스페스노스트라\nSalve, Salve Regina Peron                  \n살베 베 레지나 페론\nAd Te Clamamus exules Filii Eva    \n아 테 클라마무스 엑스우레스 필리이 에바\nAd Te Suspiramus gementes                  \n아 테 수스피라무스 제멘테스\nEt Flentes O Clemens O Pia          \n에 플렌테스 오 클레멘스 오 피아\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "Don’t cry for me Argentina\n더 이상 날 위해 울지 마요\n보잘것없고 나약한 존재 \n평범한 여자 당신과 같아\n"
+                        },
+                        {
+                            "speaker": "(EVA + 5 GIRLS)",
+                            "lyrics": "내 손을 꼭 잡아 줘요\n이 세상 끝날 그 순간까지 \n우리의 행진 슬픔의 노래 \n에바가 아닌 이 나라 위해\n"
+                        },
+                        {
+                            "speaker": "(EVA + 3 GIRLS)",
+                            "lyrics": "에바가 아닌 이 나라 위해\n"
+                        },
+                        {
+                            "speaker": "(EVA + 1 GIRL)",
+                            "lyrics": "영광도 함께 죽음도 함께\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "영광도 함께 죽음도 함께\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "죽음도 함께\n자! 에바 페론!\n가진 건 하나 없어, \n어떻게 성공했을까\n돈도 빽도 없는\n힘없는 사생아, \n딱 봐도 어린 소녀가 뭘 했겠어\n결국 머릴 굴렸지-\n저 탱고가수\nAgustin MAGALDI\n그녀 성공의 발판이 된 첫 남자\n딱 알아본 Eva Duarte\n"
+                        }
+                    ]
+                },
+                {
+                    "order": 4,
+                    "id": "thousand_stars",
+                    "title_en": "On This Night of a Thousand Stars",
+                    "title_ko": "별빛 찬란한 밤",
+                    "lyrics_raw": [
+                        {
+                            "speaker": "(MAGALDI)",
+                            "lyrics": "별빛 찬란한 이 밤에\n천국에 데려다 주오 \n사랑의 기타 소리여\n영원하리라\n반짝이는 빛 속에서\n영원히 사랑할 거야\n별빛 찬란한 이 밤에 \n나와 떠나요\n당신과 나눴던 입맞춤이 이렇게 \n달콤할 줄 몰랐네\n언제나 사랑 없이 헤매이던 나\n외로운 남자였지만\n이제는 내 모든 슬픔 다 \n사라지고 사랑만이 여기에—\n기적처럼 내게 나타나주었네 미아모르\n오늘밤\n오늘밤\n별빛 찬란한 이 밤에 \n천국에 데려다 주오\n사랑의 기타 소리여\n영원하리라-\n(EVA) \n멋진 당신이\n보잘것없는 날\n이렇게 사랑해 주시다니\n"
+                        },
+                        {
+                            "speaker": "(MAGALDI)",
+                            "lyrics": "여기 촌구석\n반응이 왜 이래\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "문제는 바로 너\n니 노래 후져!\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "난 가고 싶어 그곳으로 Buenos Aires 도시로\n"
+                        },
+                        {
+                            "speaker": "(EVA)                                                        (FAMILY)",
+                            "lyrics": "난 가고 싶어 그곳으로                                            넌 가고 싶어 그곳으로\nBuenos Aires 도시로                                      Buenos Aires 도시로\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "내 말 잘들어\n어서 튀어 마갈디\n더 늦기 전에 빨리\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "약속한대로 \n빨리 여길 떠나요\n당신과 나! 둘이서\n"
+                        },
+                        {
+                            "speaker": "(MAGALDI)",
+                            "lyrics": "헤이! 에바, 무슨 헛소리야\n"
+                        },
+                        {
+                            "speaker": "(MAGALDI)",
+                            "lyrics": "난 그런 말 한 적 없어\n"
+                        },
+                        {
+                            "speaker": "(FAMILY)",
+                            "lyrics": "뭐야?! 약속을 어긴다고\n"
+                        },
+                        {
+                            "speaker": "(MAGALDI)",
+                            "lyrics": "무슨 약속?\n“대체 무슨 말을 하는 거야?”\n"
+                        },
+                        {
+                            "speaker": "(BROTHER)",
+                            "lyrics": "어린 내 동생에게 미랠 약속했잖아\n"
+                        },
+                        {
+                            "speaker": "(BROTHER + TWO SISTERS)",
+                            "lyrics": "다 퍼주고 바쳤어\n널 믿고 따랐어\n"
+                        },
+                        {
+                            "speaker": "(ENTIRE FAMILY)",
+                            "lyrics": "가만두지 않아 \n우릴 배신한다면 절대\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "난 가고 싶어 그곳으로 Buenos Aires 도시로\n우리가 나눴던 달콤한 속삭임 \n그게 모두 다 거짓말이었나?\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "이거 완전히 딱 걸린 거야\n도망가긴 이미 늦었어\n넌 가수가 아닌 그녈(그녀를) 캐스팅한 \n사람으로 기억될 뿐\n"
+                        },
+                        {
+                            "speaker": "(MAGALDI)",
+                            "lyrics": "돈만 있다면 도시는 \n천국이 될 거야\n명예와 인맥으로 \n뭐든 할 수 있지만-\n권력도 돈도 없는 넌\n쓰레기처럼 살 거야-\n넌 상류층도 아니잖아\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "그까짓 상류층, 대체 그딴 게 뭔데!\n난 아버지 장례식에서도 쫓겨났었지\n천한 계급이라고 우릴 막았어 \n엄마와 나는 그저 멀리서 지켜만 봤었지\n난 바꿀 거야 그 곳 Buenos Aires \n다 뒤집고 바로 잡을 거야\n(CHE) \n하룻밤 보내고 \n마갈디 큰일났네\n"
+                        },
+                        {
+                            "speaker": "(MAGALDI)",
+                            "lyrics": "에바, 내 말 (좀) 들어봐\n도시는 위험해\n사기꾼만 가득해\n순진한 넌 버틸 수 없어\n살아 남기 위해선\n뭐든지 해야만 해\n이를 악물고\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "이를 악물고 난\n뭐든 다 할 거야\n여기보다 뭐든 다 좋아\n떠날 거야\n새처럼 날 거야\n도대체 왜 나만 안돼 \n날개를 활짝 펼치고 날아갈 거야\n그곳으로 가고 말 거야 Buenos Aires 도시로\n"
+                        },
+                        {
+                            "speaker": "(EVA)                                                        (CHORUS)",
+                            "lyrics": "그곳으로 가고 말 거야                                            그곳으로 가고 말 거야\nBuenos Aires 도시로                                      Buenos Aires 도시로\n"
+                        },
+                        {
+                            "speaker": "(MAGALDI)",
+                            "lyrics": "5년 후에 다시 올게 \n그땐 뭐든지 널 위해 다 해줄게 \n그땐 네 맘이 달라질지 몰라\n그 마법의 도시도 네 꿈과 야망 모두\n환상일지도 몰라\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "내게 속삭이던 달콤했던 그 말들 \n날 속이려던 더러운 거짓말 \n그 추한 도시에서 살아가는 방법\n아주 잘 알겠어 너 덕분에\n그곳으로 가고 말 거야 Buenos Aires 도시로\n"
+                        },
+                        {
+                            "speaker": "(EVA)                                                        (CHORUS)",
+                            "lyrics": "그곳으로 가고 말 거야                                            그곳으로 가고 말 거야\nBuenos Aires 도시로                                      Buenos Aires 도시로\n"
+                        },
+                        {
+                            "speaker": "(MAGALDI)",
+                            "lyrics": "에바, 너의 그 큰 야망 \n너무 위험해\n도시는 살벌한 곳\n남자도 무서워 벌벌 떨어\n여자인 네가 대체 어떻게 살려고\n무모한 짓 그만둬\n후회할 거야 \n난 분명히 경고 했어\n"
+                        }
+                    ]
+                },
+                {
+                    "order": 5,
+                    "id": "buenos_aires",
+                    "title_en": "Buenos Aires",
+                    "title_ko": "부에노스 아이레스",
+                    "lyrics_raw": [
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "Hello! Buenos Aires\n날 봐! 난 아무것도 가진 것이 없지만 \n나를 지켜봐\n내가 왔어! Buenos Aires\n잘 봐! 이제부터 무슨 일이 생길지 \n기대해도 좋아 스타의 탄생\n나를 채워줄 열기와 도시의 시끄런 소리\n너의 리듬에 맞춰서 춤추며 부르는 노래\n망설이지마 난 자신이 있어\n내가 바라던 곳 바로 여기\nHello! Buenos Aires\n이제! 잘 지켜봐 \n준비 다 끝났어 멋진 내 무대\n여긴 화려한 불빛과 사람이 넘쳐서 좋아\n여기 불타는 정열에 빠져서 취하고 싶어\n내가 바라던 게 바로 이거야\n노래하며 꿈을 펼칠 이 곳\n멈춰! Buenos Aires\n날 봐! 넌 반드시 내가 필요할 거야 \n너를 사로잡는 스타의 탄생\n나- 항상 꿈꿔 왔었지 \n그 꿈은 바로 너야\n아름다운 도시여\n나- 너무 지쳐있을 땐/지쳐 있다면 \n너의 따스한 품 속에 \n포근하게 안길게\n\n(간주)\n\n"
+                        },
+                        {
+                            "speaker": "(Recording, Narrators)",
+                            "lyrics": "(1. First speech) \nHello Buenos Aires \n이 도시를 움직이는 진짜 원동력은 과연 무엇일까요?\n그건 바로, 지금 이 시간에도 공장에서 열심히 일하며 땀 흘리는 \n우리 노동자들입니다.\n이들에게는 아직 뚜렷한 목소리가 없지만, 곧 이들의 야망과 주장이 세상에 드러날 것입니다.\n(2. Second speech) \nGood afternoon Buenos Aires \n최근 강한 정부의 통치를 반기는 목소리가 높아지고 있습니다.\n헌법을 수호한다는 명분을 내세워,\n심지어 군 내부에서는, 군이 곧 헌법이 되어야 한다는 주장까지 나오고 있습니다.\n앞으로 우리의 정치적 상황은 과연 어떤 방향으로 흘러가게 될까요?\n(3. Third speech) \n이곳은 부에노스 아이레스의 폴로 경기장입니다.\n경기장 앞에 줄지어 선, 롤스 로이스, 다임러, \n최고급 의상에 반짝이는 보석까지. \n한 눈에 봐도 이 도시 상류층의 품격이 드러나네요.\n다이아몬드처럼 견고한 이 도시 상류층을 바닥부터 뒤흔들 사람이 과연 있을까요?\nDANCE BREAK----\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "때론 거짓과 분노와 슬픔이 가득하지만\n이제 모든 걸 바쳐서 살아갈 이유가 있어\n나는 반드시 꼭 성공할 거야\n나를 믿어 내가 보여줄게\nRio Dela Plata 리오 델라 플라타\nFlorida 플로리다\nCorrientes 코리엔테스\nNueve de Julio 누에베 데 훌리오\n모두 내 꺼야\n비켜! Buenos Aires\n날 봐! 넌 반드시 나를 찾게 될 거야\n터질 것만 같은 터질 것만 같은 \n터질 것만 같은 스타!!! 바로 나----\n"
+                        }
+                    ]
+                },
+                {
+                    "order": 6,
+                    "id": "goodnight_and_thank_you",
+                    "title_en": "Goodnight and Thank You",
+                    "title_ko": "굿나잇 앤 땡큐",
+                    "lyrics_raw": [
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "Good night and Thank you, 마갈디\n당신 임무는 끝\n더 이상 볼 일은 없어 \n언젠가 한 번쯤 만나겠지\n또 쓸모가 있다면 찾겠지만\n너무 기다리진 말아요-\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "오, 이런 이별은 가슴 아파 \n오, 인생은 그런 거죠\n잘 가요 바보처럼 굴지 말고\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "다 그런 거지\n"
+                        },
+                        {
+                            "speaker": "(EVA+CHE)",
+                            "lyrics": "영원한 사랑은 없어\n어떤 남자 그 어떤 여자도 \n모두 다 똑같아\n그 영원한 사랑을 믿고 싶겠지만\n세상에 그런 건 없어\n잠시 기댈 순 있지만 스쳐갈 인연\n인생이 다 그래 너도 다 알잖아\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "Good night and Thank you 작가님\n그녀의 사진이 \n잡지에 실려있네 \n이건 모두 당신의 작품이지 \n이제 당신의 역할은 여기까지\n이제 미련도 여기까지\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "오, 이런 이별은 가슴 아파 \n오, 한때는 뜨거웠지\n함께했던 추억은 간직할게\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "오, 고마워라\n"
+                        },
+                        {
+                            "speaker": "(EVA+CHE+2 LOVERS)",
+                            "lyrics": "영원한 사랑은 없어\n어떤 남자 그 어떤 여자도 \n모두 다 똑같아\n그 영원한 사랑을 믿고 싶겠지만\n세상에 그런 건 없어\n잠시 기댈 순 있지만 스쳐갈 인연\n인생이 다 그래 너도 다 알잖아\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "Good night and Thank you 국장님\n그녈 방송에 꽂아준 은혜 잊지 않을게\n당신의 그 노력과 지극정성\n그 라디오 들을 때 생각할게\n이제 그만 가보시지\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "오, 이런 이별은 가슴 아파\n오, 하지만 이젠 안녕\n당신 사랑이 내겐 너무 과분해요\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "이제 좀 가라!\n"
+                        },
+                        {
+                            "speaker": "(CHE+LOVERS)",
+                            "lyrics": "이 몸과 이 마음 다 바치고\n완전히 바보 됐네\n에바를 만나면 그 누구도\n정신 못 차-리네\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "에바는 최고의 라디오스타\n(허나) 이걸로 만족할 수는 없지 \n더 높은 곳으로 데려가 줄 \n강하고 힘있는 사람은 어디\n"
+                        },
+                        {
+                            "speaker": "(BOYS)",
+                            "lyrics": "오, 사랑했지만 이젠 안녕\n"
+                        }
+                    ]
+                },
+                {
+                    "order": 7,
+                    "id": "art_of_possible",
+                    "title_en": "The Art Of the Possible",
+                    "title_ko": "권력의 예술",
+                    "lyrics_raw": [
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "Good night and Thank you, 마갈디\n당신 임무는 끝\n더 이상 볼 일은 없어 \n언젠가 한 번쯤 만나겠지\n또 쓸모가 있다면 찾겠지만\n너무 기다리진 말아요-\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "오, 이런 이별은 가슴 아파 \n오, 인생은 그런 거죠\n잘 가요 바보처럼 굴지 말고\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "다 그런 거지\n"
+                        },
+                        {
+                            "speaker": "(EVA+CHE)",
+                            "lyrics": "영원한 사랑은 없어\n어떤 남자 그 어떤 여자도 \n모두 다 똑같아\n그 영원한 사랑을 믿고 싶겠지만\n세상에 그런 건 없어\n잠시 기댈 순 있지만 스쳐갈 인연\n인생이 다 그래 너도 다 알잖아\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "Good night and Thank you 작가님\n그녀의 사진이 \n잡지에 실려있네 \n이건 모두 당신의 작품이지 \n이제 당신의 역할은 여기까지\n이제 미련도 여기까지\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "오, 이런 이별은 가슴 아파 \n오, 한때는 뜨거웠지\n함께했던 추억은 간직할게\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "오, 고마워라\n"
+                        },
+                        {
+                            "speaker": "(EVA+CHE+2 LOVERS)",
+                            "lyrics": "영원한 사랑은 없어\n어떤 남자 그 어떤 여자도 \n모두 다 똑같아\n그 영원한 사랑을 믿고 싶겠지만\n세상에 그런 건 없어\n잠시 기댈 순 있지만 스쳐갈 인연\n인생이 다 그래 너도 다 알잖아\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "Good night and Thank you 국장님\n그녈 방송에 꽂아준 은혜 잊지 않을게\n당신의 그 노력과 지극정성\n그 라디오 들을 때 생각할게\n이제 그만 가보시지\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "오, 이런 이별은 가슴 아파\n오, 하지만 이젠 안녕\n당신 사랑이 내겐 너무 과분해요\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "이제 좀 가라!\n"
+                        },
+                        {
+                            "speaker": "(CHE+LOVERS)",
+                            "lyrics": "이 몸과 이 마음 다 바치고\n완전히 바보 됐네\n에바를 만나면 그 누구도\n정신 못 차-리네\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "에바는 최고의 라디오스타\n(허나) 이걸로 만족할 수는 없지 \n더 높은 곳으로 데려가 줄 \n강하고 힘있는 사람은 어디\n"
+                        },
+                        {
+                            "speaker": "(BOYS)",
+                            "lyrics": "오, 사랑했지만 이젠 안녕\n"
+                        }
+                    ]
+                },
+                {
+                    "order": 8,
+                    "id": "charity_concert",
+                    "title_en": "Charity Concert",
+                    "title_ko": "자선 음악회",
+                    "lyrics_raw": [
+                        {
+                            "speaker": "(MAGALDI)",
+                            "lyrics": "오늘 밤\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "1944년 1월 22일,\n부에노스 아이레스, 루나 파크 스타디움.\n"
+                        },
+                        {
+                            "speaker": "(MAGALDI)",
+                            "lyrics": "오늘 밤\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "아르젠티나 산후안에서 발생한 대 지진, 그 피해자들을 돕기 위해 열린 자선 음악회\n"
+                        },
+                        {
+                            "speaker": "(MAGALDI)",
+                            "lyrics": "별빛 찬란한 이 밤에 \n천국에 데려다 주오 \n사랑의 기타 소리여 \n영원하리라-\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "레이디스 앤 젠틀맨, 미스터 아구스틴 마갈디.\n이제 곧 오늘의 주인공이 등장합니다.\n"
+                        },
+                        {
+                            "speaker": "(MAGALDI)",
+                            "lyrics": "Eva Duarte\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "여전하시네 참\n"
+                        },
+                        {
+                            "speaker": "(MAGALDI)",
+                            "lyrics": "여전하군\n"
+                        },
+                        {
+                            "speaker": "(ENSEMBLE)",
+                            "lyrics": "Peron, Peron, Peron, Peron, Peron, Peron, \nPeron, Peron, Peron, Peron, Peron, Peron\n"
+                        },
+                        {
+                            "speaker": "(PERON)",
+                            "lyrics": "오늘 재난을 극복하기 위해\n도움의 손길 주신 모든 분들 \n진심으로 감사드립니다.\n여기 자랑스런 내 나라 내 국민\n당신들의 힘 그게 바로 미래\n"
+                        },
+                        {
+                            "speaker": "(ENSEMBLE)",
+                            "lyrics": "Peron, Peron, Peron, Peron, Peron, Peron, Peron, Peron, Pe…\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "페론 대령님?\n"
+                        },
+                        {
+                            "speaker": "(PERON)",
+                            "lyrics": "에바 듀아르테\n"
+                        },
+                        {
+                            "speaker": "(EVA+PERON)",
+                            "lyrics": "말씀 많이 들었죠\n"
+                        },
+                        {
+                            "speaker": "(EVA)                                                        (PERON)",
+                            "lyrics": "전 그저 보잘것없는 배우                                 전 그저 보잘것없는 군인 \n이렇게 알아봐 주시니 영광이죠                                 하찮은 군인을 알아봐 주시다니\n"
+                        }
+                    ]
+                },
+                {
+                    "order": 9,
+                    "id": "surprisingly_good",
+                    "title_en": "I'd Be Surprisingly Good For You",
+                    "title_ko": "당신이 기다려 온 사람",
+                    "lyrics_raw": [
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "당신 말씀 너무나 감동했어요\n"
+                        },
+                        {
+                            "speaker": "(PERON)",
+                            "lyrics": "그 목소리\n때론 지칠 때 내게 힘이 되어 주죠 \n혼자 오셨나요\n(EVA) \n네, 혼자에요\n"
+                        },
+                        {
+                            "speaker": "(PERON)",
+                            "lyrics": "나 역시\n이런 행운이 또 있을까 \n오늘 여기 오길 잘한 것 같군요\n(EVA) \n저도 같은 마음이에요\n의도하지는 않았지만\n이렇게 가까이 둘이서\n눈 맞추며 얘길 하다니\n나 당신에게 뭔가 이끌려\n내가 기다린 사람일까\n우연일까 아니면 운명일까\n내가 너무 앞서 가나요\n그럼 내게 말해주세요\n우리 서로에게 끌리는 느낌\n나 당신을 기다렸나 봐\n지루한가요? 그만할까요?\n하지만 이런 내 맘 보이죠? 느끼죠?\n그대도 나처럼 느끼나요? \n알고 싶어-\n우리 서두르지 말아요\n설레는 맘 잃을까 두려워 \n당신 눈빛 속에 보이는\n그 마음 내게 주는 건가요? \n나 당신의 사람이 될까요?\n당신이 기다려 온 사람\n(PERON) \n나- 역시\n이런 느낌\n마치 운명처럼 이끌려\n당신을 느끼고 바라보게 되다니\n내 맘도 당신처럼-\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "우리 서두르지 말아요\n이별이 찾아올까 두려워\n당신 눈빛속에 보이는\n그 마음 가져가도 될까요\n나 당신의 사람이 될게요\n운명 같은 우리의 만남-\n\n(간주)\n\n"
+                        },
+                        {
+                            "speaker": "(EVA+PERON)",
+                            "lyrics": "영원한 사랑은 없어\n어떤 남자 그 어떤 여자도\n모두 다 똑같아\n그 영원한 사랑을 믿고 싶겠지만\n세상에 그런 건 없어\n잠시 기댈 순 있지만 스쳐갈 인연\n인생이 다 그래 너도 다 알잖아\n"
+                        }
+                    ]
+                },
+                {
+                    "order": 10,
+                    "id": "another_suitcase",
+                    "title_en": "Another Suitcase In Another Hall",
+                    "title_ko": "또 다른 여행, 또 다른 길",
+                    "lyrics_raw": [
+                        [
+                            {
+                                "speaker": "(EVA)",
+                                "lyrics": "안녕 꼬마야\n넌 이제 끝났어\n학교로 돌아가 \n공부나 더 해\n그래 수고했어 \n슬픈 척 놀란 척 내숭 좀 떨지 마\n어서 꼬마야\n뭘 빤히 쳐다보니\n이런 날 올 거란 걸\n다 알았잖아 \n어서 나가봐!\n넌 어리고 예쁘니 너무 걱정하진 마\n\n(간주)\n\n"
+                            },
+                            {
+                                "speaker": "(MISTRESS)",
+                                "lyrics": "영원한 사랑 기대하진 않았죠\n잠시 스쳐간 짧은 꿈이란 걸\n떠날 순간 이런 초라한 내 모습 \n또 다시 혼자 남아 \n왜 일까?\n어떻게 하나                                                (BOYS+CHE)\n또 다른 여행 또 다른 길\n이젠 어쩌나 \n지나간 추억 새로운 꿈\n어디로 가야 해\n길을 따라 마음을 따라\n어디로 가야 해\n"
+                            },
+                            {
+                                "speaker": "(간주 2마디)",
+                                "lyrics": "몇 번이고 상관없다 말해도 \n왜 항상 이렇게 상처만 남을까\n이별 앞에서 무너지는 내 마음이\n날 더욱 아프게 해 이렇게 \n어떻게 하나                                                (BOYS+CHE)\n또 다른 여행 또 다른 길\n이젠 어쩌나 \n지나간 추억 새로운 꿈\n어디로 가야 해\n길을 따라 마음을 따라\n어디로 가야 해\n"
+                            },
+                            {
+                                "speaker": "(간주 2마디)",
+                                "lyrics": "잊혀지겠지 시간이 지나면\n또 살아갈 거야 모든 걸 견뎌내고\n난 떠날 거야 새로운 곳 \n또- 다른 날 위해\n그 곳은 나를 반겨줄 거야\n이제부터 난                                                (BOYS+CHE)\n또 다른 여행 또 다른 길\n다시 시작해\n지나간 추억 새로운 꿈\n또 다른 날 위해\n길을 따라 마음을 따라\n어디로 가야 해\n"
+                            },
+                            {
+                                "speaker": "(CHE)",
+                                "lyrics": "더 이상 묻지 마\n"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "order": 11,
+                    "id": "perons_latest_flame",
+                    "title_en": "Peron’s Latest Flame",
+                    "title_ko": "페론의 여자",
+                    "lyrics_raw": [
+                        {
+                            "speaker": "(CHE)                                                        (ARISTOCRATS)",
+                            "lyrics": "잘난 부자님들\n잘난 얼굴에 \n불평불만이 가득해\n맞아!\n저 둘 때문에\n잘 알고 있네!\n저 상류층\n어느 누구도 \n어디 감히!\n잘 나가는 저 에바를\n좋아할 리 없지\n당연하지 \n어디라고 감히\n여기저기 설쳐\n누가 알아듣게 말 좀\n해주면 좋겠어\n정말 짜증나\n주제 파악 좀 해\n마주쳐도 절대\n쳐다보지 마\n"
+                        },
+                        {
+                            "speaker": "(CHE)                                                        (ARMY)",
+                            "lyrics": "우리의 군인 장교들 \n역시 불만이 가득해                                       \n                                                               정확해!\n(CHE)                                                        \n저 둘 때문에\n(CHE)                                                        (ARMY)\n네 말이 맞아!\n장교들 화나게 하려면\n에바 이름을 부르면 돼\n미쳐버릴 걸\n돌아버릴 걸!\n페론은 바보\n정신 못 차리네\n여기에 여자를\n데려오다니\n천박한 배우\n미쳤어-\n봐줄 만한 건 오직\n껍데기 뿐\n가만히 누워서\n쉽게 출세했어\n대령님의 마네킹\n두고 보면 알 거야\n속셈이 있는 거야\n대령님을 이용해\n출세하려는 거야\n썅!\n위험한 년-\n(ARISTOCRATS)\n우리는 무시당했어\n완전 씨알도 안 먹혀\n천박한 저 여자 때문에\n좋은 시절은 끝났어\n"
+                        },
+                        {
+                            "speaker": "(ARMY)",
+                            "lyrics": "뭐 대령이 뭘 하든지 상관없어\n당당하고 신중하고 깨끗하고\n정직하면 괜찮아-\n단 우리 앞에 얼쩡거리면\n그 끝은 절대 못 보지 \n절대 안 봐\n우리 모두 무시해\n머리카락 보인다\n방에서 나오지마\n꼴도 보기 싫으니\n방에 처박혀 있어\n썅!\n위험한 년-\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "이제 너의 시대야, 우리 에바\n다음은 어디로 가나, 우리 에바\n도대체 무슨 짓 할 건지 \n자 보여줘 다음 무대를\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "이제 배우 따윈 안 해요\n나랄 위해 다 포기했죠\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "배우를 그만둔다고\n모두가 아는 (그) 이유는 역시나 페론 대령\n"
+                        },
+                        {
+                            "speaker": "(HEAVIES)",
+                            "lyrics": "Good night and Thank you\n"
+                        },
+                        {
+                            "speaker": "(ARMY)",
+                            "lyrics": "이 정도론 절대 만족할 줄 몰라\n맘 속 깊은 곳에 있는 커다란 욕망\n그건 안돼 절대로 \n머리카락 보인다\n방에서 나오지 마\n(ARISTOCRATS)\n꼴도 보기 싫으니\n방에 처박혀 있어\n(ARMY)\n두고 보면 알 거야\n(ARISTOCRATS)\n속셈이 있는 거야\n(ARMY+ARISTOCRATS)\n대령님을 이용해\n출세하려는 거야\n"
+                        },
+                        {
+                            "speaker": "(ARISTOCRATS)",
+                            "lyrics": "세상이 난리가 났네\n천박한 시골 출신이\n초특급 상류층 놀이를                                    (CHE)\n우린 절대 인정 못 해                                     ------------인정 못 해\n"
+                        }
+                    ]
+                },
+                {
+                    "order": 12,
+                    "id": "new_argentina",
+                    "title_en": "A New Argentina",
+                    "title_ko": "새로운 세상",
+                    "lyrics_raw": [
+                        {
+                            "speaker": "(PERON)",
+                            "lyrics": "시작이야 내 주위에 대권을 노리는 인간들\n우리가 그들의 표적이 되겠지\n우릴 제거하려 하겠지\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "그들은 신경 쓰지 말아요\n말 뿐인 정치가들 한심해\n기껏해야 겨우 스무 명\n수백만이 당신 편이죠\n잘 생각해요\n그냥 기다리면 끝나요\n승리가 눈 앞에 있어요\n우리, 당신이 잘 견뎌낸다면\n새로운 세상 열릴 거야 \n그 때를 기다려\n당신을 보여 줄 그 순간\n"
+                        },
+                        {
+                            "speaker": "(PERON)",
+                            "lyrics": "이쯤에서 멈추는 게 현명할지도 몰라\n저 멀리 떠나는 게 나을지도\n먼 곳으로 망명해서 편안하게 사는 것\n파라과이 같은 나라 어떨까\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "왜 그리 나약한가요\n잘못될 일 없어 절대로\n비겁한 망명 따위 생각하지 말아요\n저들은 우릴 원해\n[CHORUS]\nPeron! Peron! Peron! Peron!\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "A New Argentina\n새 희망을 꿈꿔보자\nA New Argentina\n한 목소리 모아 높이 외쳐라\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "오직 여러분 대신해 앞장설 꼭 한 사람\n사람 사는 세상 만들어 줄 단 한 사람\n거짓 아닌 위선 아닌 사랑으로 구할 거야\n날 사랑한 것처럼\n"
+                        },
+                        {
+                            "speaker": "(EVA+CHE+CHORUS)",
+                            "lyrics": "A New Argentina\n모두 함께 외쳐보자\nA New Argentina\n한 목소리 모아 높이 외쳐라\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "나 역시 여러분과 같은 노동자 출신\n그 똑같은 아픔과 배고픔 다 겪었죠\n오직 우릴 구원해줄 단 한 사람 후안 페론\n날 구원한 것처럼\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "A New Argentina\n새 시대가 다가오네\n"
+                        },
+                        {
+                            "speaker": "(CHE+WORKERS)",
+                            "lyrics": "A New Argentina\n그 세상을 향해 함께 나가자\n"
+                        },
+                        {
+                            "speaker": "(WORKERS)",
+                            "lyrics": "경제를 살릴 방법은 하나\n이제 우리 힘으로 \n일한 만큼은 공평하게 나눠요\n시간단축 임금인상\n"
+                        },
+                        {
+                            "speaker": "(FEMALE WORKERS)",
+                            "lyrics": "여성인권 보조금\n"
+                        },
+                        {
+                            "speaker": "(All WORKERS)",
+                            "lyrics": "기초생활권 실업수당 사회복지\n"
+                        },
+                        {
+                            "speaker": "(PERON)",
+                            "lyrics": "부정선거로 민중들을 절대 속일 수 없어\n지금까지는 완벽히 짜여진 쇼\n정당한 승리 단 한 번도 없었던 이 나라\n모두 군사정부 힘 앞에선 결국 약자\n"
+                        },
+                        {
+                            "speaker": "(OFFICIALS)",
+                            "lyrics": "우리를 지지하지 않으면 \n무서운 일 닥칠 거야\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "결국 페론은 강제로 군복을 벗었죠\n여러분과 함께 할 미래를 선택했죠\n거짓 아닌 위선 아닌 사랑으로 구할 거야\n날 사랑한 것처럼\n"
+                        },
+                        {
+                            "speaker": "(All)",
+                            "lyrics": "A New Argentina\n새 희망을 꿈꿔보자\nA New Argentina\n한 목소리 모아 \n높이 외쳐\n함께 외쳐\n영원하리라-\n"
+                        },
+                        {
+                            "speaker": "(PERON)",
+                            "lyrics": "이제 그런 바보 같은 \n정치는 끝내야 해\n두 번 다시 기회는 없어 \n영원히-\n여기 남아 싸울 건가\n망명을 택할 건가\n지금 선택해야만 해 \n우리 이제-\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "나도 역시 그런 생각 했었지만\n이제 그런 생각 말아요 절대로\n당신 따르는 사람들을 생각해요\n다시 이런 기횐 없어요\n저 높은 곳을 바라봐 찬란한 미래가 기다려\n이 나라 위해 우리가 만들어 나갈 \n새로운 미래 위대한 새 역사\n"
+                        },
+                        {
+                            "speaker": "(All)",
+                            "lyrics": "A New Argentina\n새 시대가 다가오네\nA New Argentina\n그 세상을 향해\n높이 외쳐\n함께 외쳐\n영원하리라-\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "act": "ACT 2",
+            "tracks": [
+                {
+                    "number": 13,
+                    "title_en": "Entr'acte",
+                    "title_ko": "막간",
+                    "lyrics": []
+                },
+                {
+                    "number": "14-1",
+                    "title_en": "On the Balcony of the Casa Rosada",
+                    "title_ko": "대통령궁 발코니",
+                    "lyrics": [
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "위대한 국민들이여\n새로운 우리의 \n지도자 후안 페론\n"
+                        },
+                        {
+                            "speaker": "(PERON)",
+                            "lyrics": "나의 조국 국민들이여                                  \n우린 하나입니다                                       \n적과 싸워 꼭 이겨냅시다                             \n가난과 불평등 속에서                                   \n여러분을 구해내겠습니다                               \nPe-ron, Pe-\n다시 되찾아 옵시다                               \n국가의 독립, 자부심, 명예                    \n세계를 향해 우리의 위대함을 보여줄 때\n믿어주십시오 저 후안 페론,                          \n그리고 항상 날 위해 헌신하는\n에바 듀아르테 페론\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "내가 왜 이 유치한 장면을 봐야 하나                   Peron, Peron, Peron, \nPeron,\n저 대단한 연출에 박수를                                 Peron, Peron, Peron, \nPeron,\n어쩌면 나도 이 순간을 좋아하나                        … Peron, Peron, \n나도 외쳐볼까 페론! 페론, 페론\n"
+                        },
+                        {
+                            "speaker": "(CHORUS Ⅱ)                                               (CHORUS Ⅰ)",
+                            "lyrics": "E-vi-ta, E-vi-ta,                                                      Pe-ron, Pe-ron, Pe-ron, Pe-ron,\nE-vi-ta, E-vi-ta,                                                      Pe-ron, Pe-ron, Pe-ron, Pe-ron,\nE-vi-ta, E-vi-ta,                                                      Pe-ron, Pe-ron, E-vi-ta,\nE-vi-ta, E-vi-ta, E-vi-ta                                             E-vi-ta, E-vi-ta, E-vi-ta\n"
+                        }
+                    ]
+                },
+                {
+                    "number": "14-2",
+                    "title_en": "Don't Cry For Me Argentina",
+                    "title_ko": "돈 크라이 포 미 아르젠티나",
+                    "lyrics": [
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "어떻게 해야 내 마음을 \n여러분 마음에 전할까\n어떤 말로도 충분하진 않지만\n기억해 줘요\n보잘것없었던 한 여자를\n이 곳에 있게 해준 건\n바로 여러분 사랑이죠\n지나간 많은 시간 지난 기억\n항상 어둡고 힘들었죠\n그때로 다시 돌아가고 싶지 않아\n원했던 자유\n모든 걸 멋대로 다 했지만\n이 세상 그 어느 것도\n내 기대를 저버렸죠\nDon’t cry for me Argentina\n난 그댈 떠나지 않아\n혼란 속에서 아픔 속에서\n지킨 내 약속 날 믿어 줘요\n나의 행운 명예 모두\n그걸 원했던 건 아냐\n사람들은 모두 그렇게 말하지만\n그건 환상일 뿐\n내가 찾던 답은 세상이 아닌\n내 마음 속에 있었죠\n날 사랑해 주는 그대\nDon’t cry for me Argentina\n"
+                        },
+                        {
+                            "speaker": "(CHORUS)",
+                            "lyrics": "Hum- - - - - - - - - - - - - - -\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "Don’t cry for me Argentina\n난 그댈 떠나지 않아\n혼란 속에서 아픔 속에서\n지킨 내 약속 날 믿어 줘요\n너무 길었죠 더 이상 할 말이 \n생각나지 않네요\n하지만 이런 나의 말과 진심을 \n지켜봐 주세요\n\n(간주)\n\n자 들리나요\n거대한 함성소리 \n우릴 향한 사랑이\n"
+                        },
+                        {
+                            "speaker": "(OFFICER)",
+                            "lyrics": "함성만으로 나라를 다스리나\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "맘대로 생각해\n"
+                        },
+                        {
+                            "speaker": "(SOPRANOS)",
+                            "lyrics": "Ev-i-ta Pe-ron La San-ta Peron-is-ta,\n"
+                        },
+                        {
+                            "speaker": "(EVITA)                                                      (SOPRANOS+TENORS)",
+                            "lyrics": "저는 평범한 여자(사람)일 뿐입니다.                   Ev-i-ta Pe-ron La San-ta Peron-is-ta,\n페론의 큰 뜻을 따르는 여자(사람으)로서,             Ev-i-ta Pe-ron La San-ta Peron-is-ta,\n국민 여러분들을 위해 살아갈 것을                     Ev-i-ta Pe-ron La San-ta Peron-is-ta,\n약속합니다.                                        \n지금부터 페론을 도와                                     Ev-i-ta Pe-ron La San-ta Peron-is-ta,\n자신의 이익만 챙기는 재벌들의                                 Ev-i-ta Pe-ron La San-ta,\n비자금을 몰수하고                                        Peron-is-ta\n빈부의 양극화를 해소할 수 있도록 하겠습니다.              Ev-i-ta Pe-ron La San-ta Peron-is-ta\n                                                               (+ALTOS)\n우리 노동자들을 위해, 국민 여러분들을 위해!                Ev-i-ta Pe-ron La San-ta Peron-is-ta\n언젠가는 그 기쁨을 함께 할                             Ev-i-ta Pe-ron La San-ta Peron-is-ta,\n날이 올 것입니다.                                         Ev-i-ta Pe-ron La San-ta Peron-is-ta,\n이 땅의 노동자들이여!                                             Ev-i-ta Pe-ron \n우리 다 같이 승리와 영광의 노래를 부릅시다.                La San-ta Peron-is-ta,\n페론을 위해서가 아니라 여러분을 위해서             Ev-i-ta Pe-ron La San-ta Peron-is-ta,\n바로 우릴 위해서                                          Ev-i-ta Pe-ron La San-ta Peron-is-ta\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "세상 잘 돌아가네\n천박한 배우 출신이\n존경과 찬사를 받다니\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "귀족들 시대는 끝났어\n두고 봐 누굴 원하나\n"
+                        }
+                    ]
+                },
+                {
+                    "number": 15,
+                    "title_en": "High Flying Adored",
+                    "title_ko": "저 하늘의 스타",
+                    "lyrics": [
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "저 하늘의 스타\n젊은 왕비시여\n모두 이루었네\n결국 한 순간에\n참 대단해\n자유롭게 마음껏 날아다니네\n뒷골목 소녀는 어디 갔나\n밑바닥에서 발버둥치던\n넌 하늘의 스타 \n뭐라 해도 \n모두 이루었어\n다 가진 거야\n믿을 수 없어 \n여왕의 자리에\n밤하늘 바라보며\n눈물 흘렸지\n지나간 힘든 시간\n이제 뒤돌아보지 마\n떨어지면 이젠 끝이야\n자! 하늘의 스타\n이제부터 어디로 갈 건가\n오 아직은 젊은 나이\n이제 무슨 생각해\n뭘 해야 하는지 알기나 할까\n더 바랄 것도 없고\n재미도 없고 감동도 없어\n저 하늘의 스타\n부디 오래\n거기 머물러줘\n더 높은 곳은 없어\n이게 현명한 선택이었나\n사랑받는 건 \n이제 익숙해지고\n미움 받을 땐  \n절망 속에 힘들어 하겠지\n높이 올라가도 다 그래\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "난 하늘의 스타\n아직 내겐 낯선 그 이름\n나 그저 평범하죠\n나만의 꿈을 쫓아갔을 뿐\n행운이 따라왔죠\n하늘의 선물\n운명이 이끌었죠\n하지만 난 확신해\n누구도 날 막을 순 없어\n"
+                        }
+                    ]
+                },
+                {
+                    "number": 16,
+                    "title_en": "Rainbow High",
+                    "title_ko": "더 높이 찬란하게",
+                    "lyrics": [
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "이제부터 진짜 시작이야\n나를 지켜봐 똑바로\n자 그럼 시작해 볼까\n나의 화려한 무대(를) 기대해\n"
+                        },
+                        {
+                            "speaker": "(MEN)",
+                            "lyrics": "Eyes Hair Mouth Manner\nDress Voice Style Gesture\nHands Magic Rings Glamour\nFace 화려한 보석\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "난 모두의\n여왕 난 그들의 스타야\n확실히 보여줘 \n내가 누구인지\n저 무지개처럼\n더 높이 찬란하게\n열광시킬 거야 바로 내가\n"
+                        },
+                        {
+                            "speaker": "(MEN)",
+                            "lyrics": "Eyes Hair Mouth Manner\nDress Voice Style Gesture\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "난 구원자 \n난 그들의 천사\n이 고통 속에서 \n구원해 줄 사람\n저 무지개처럼\n더 높이 찬란하게\n보여주겠어 바로 지금\n"
+                        },
+                        {
+                            "speaker": "(MEN)",
+                            "lyrics": "Eyes Hair Mouth Manner\nDress Voice Style Gesture\nHands Magic Rings Glamour\nFace 화려한 보석\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "나의\n국민들 내게 원하지\n더 아름다운 나를\n귀족들보다 더\n실망시킬 순 없어\n여기 에바 날개를 펴고\n저 하늘을 향해 날아가리\n그 어디라도\n더 높이 찬란하게\n난 날아갈 거야\n난 권력을 위해 치장하는 게 아니야\n또 최고의 자릴 탐내는 여왕이 아냐\n유럽 다음 무대\n더 넓은 세계로\n날갤 펼칠 시간\n나를 지켜봐\n날 봐 잘난 유럽\n이제 보여줄게 내가 과연 누군지\n너를 사로잡을 너를 사로잡을 \n아르젠티나 수퍼 스타 \n바로 나-\n"
+                        }
+                    ]
+                },
+                {
+                    "number": 17,
+                    "title_en": "Rainbow Tour",
+                    "title_ko": "에바의 유럽 순방",
+                    "lyrics": [
+                        {
+                            "speaker": "(PERON)",
+                            "lyrics": "유럽의 국민들이여\n이 나라의 무지갤 보내겠소\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "스페인을 모두 홀린 우리 에비타\n정말 그녀가 원한대로 다 됐어\n뭐든지 손만 대면 대 성공\n가는 곳마다 난리야 엄청난 인기\n스페인 총독 쯤 녹이는 건 아주 쉬운 일\n"
+                        },
+                        {
+                            "speaker": "(OFFICERS)",
+                            "lyrics": "프랑코 정권, 십년은 거뜬할 걸\n어떻게든 동맹을 맺어봐\n국민들을 안심시켜야 해\n그보다 중요한 건 정치적 문제\n"
+                        },
+                        {
+                            "speaker": "(OFFICER 1)",
+                            "lyrics": "하지만 너에겐 와이프가 있잖아\n"
+                        },
+                        {
+                            "speaker": "(ALL)",
+                            "lyrics": "대 성공이야 Rainbow Tour\n정말 엄청난 선택이었어\n이렇게 잘할 줄 몰랐어\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "진짜 성공일까\n"
+                        },
+                        {
+                            "speaker": "(ALL)",
+                            "lyrics": "우리 대답은 Yes!\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "내 말이 다 맞았죠\n어딜 가나 똑같아\n세상이 모두 외쳐요\n우리의 이름 부르네\n그 누가 나를 무시해 배우라고\n"
+                        },
+                        {
+                            "speaker": "(PERON)",
+                            "lyrics": "걱정 마 잘하고 있어\n잘 부탁해 이태리 순방도\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "이 좋은 분위기 망치긴 싫지만\n로마 분위긴 그리 좋지 않아\n다 야유하고 욕을 해댔지\n이태린, 아르젠티나 인정을 안 해\n페론이나 무솔리니나 (다) 똑같대\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "들었나요? 감히 나에게\n창녀라고 부르다니\n"
+                        },
+                        {
+                            "speaker": "(ADMIRAL)",
+                            "lyrics": "세뇨라 페론\n신경 쓰지 마요\n저들이 뭐라 하든\n이젠 모두 지난 일 \n무시해\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "그럼에도 교황은 만났지\n평범한 인사말과 묵주 선물 받았어\n"
+                        },
+                        {
+                            "speaker": "(ALL except EVA)",
+                            "lyrics": "뭐 아무리 푸대접 받았어도\n이태리와 연합은 가능할 것 같아\n이 정도면 그래도 성공한 거야\n\n(간주 - 댄스 브레이크)\n\n"
+                        },
+                        {
+                            "speaker": "(ALL)",
+                            "lyrics": "대성공이야 Rainbow Tour\n정말 엄청난 선택이었어\n이렇게 잘 할 줄 몰랐어\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "계속 잘 해낼까\n"
+                        },
+                        {
+                            "speaker": "(ALL)",
+                            "lyrics": "우리 대답은\n당연하게\nYes!\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "프랑스에선 시작이 좋았어\n안개 속에 피어난 태양처럼\n아름다운 시절이 떠올라\n프랑스까지 홀려버릴 그때\n에바 갑자기 힘들어 보여 지쳤나\n"
+                        },
+                        {
+                            "speaker": "(ALL)",
+                            "lyrics": "뭐? 에바? 지쳐?\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "무지개가 빛을 잃어가네\n영국까진 무리일 것 같아\n"
+                        },
+                        {
+                            "speaker": "(PERON)",
+                            "lyrics": "어차피 영국 계획 없었어\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "깃발을 꺼내 축제를 해야지\n성대하게 준비해 그녀의 환영식\n"
+                        },
+                        {
+                            "speaker": "(ALL incl. CHE and PERON)",
+                            "lyrics": "대성공이야 Rainbow Tour\n정말 엄청난 선택이었어\n이렇게 잘할 줄 몰랐어\n"
+                        },
+                        {
+                            "speaker": "(CHE)                                                          (ALL except CHE)",
+                            "lyrics": "끝까지 해낼까\n이제 대답은                                                \n                                                               Yes\n아니\n                                                               맞아\n아니\n                                                               맞아\n"
+                        },
+                        {
+                            "speaker": "(PERON)",
+                            "lyrics": "아니\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "대 성공이야 Rainbow Tour\n정말 엄청난 선택이었어\n(간주 2마디)\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "감히 영국의 왕이 나를 무시해\n싸구려 성에 나를 불러 \n차나 마시자고 하다니\n아르젠티나 국모인 나를,\n최고의 궁전, 버킹검이 아니라면\n우리도 영국은 필요 없어\n"
+                        }
+                    ]
+                },
+                {
+                    "number": 18,
+                    "title_en": "The Chorus Girl Hasn’t Learned",
+                    "title_ko": "천박한 여배우",
+                    "lyrics": [
+                        {
+                            "speaker": "(ARISTOCRATS)",
+                            "lyrics": "결국 여기까지야 \n중대한 국가 임무를\n여배우가 공연하듯이\n맘대로 하고 있잖아\n뭘 배우기나 했겠어\n천박한 쇼걸 출신이\n어디 한 번 두고 보자\n감히 코러스걸 주제에\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "코러스걸이 너희 맘대로 안되나 봐\n적어도 가난한 사람 짓밟고 괴롭히진 않아\n기부도 제대로 안하면서\n그냥 모두 집어 쳐\n너희들 자선단체에 회장이 될 마음도 전혀 없어\n애원하고 부탁해도 그럴 일 절대 없을 거야\n더 이상 좋은 말은 기대하지 마\n너희완 절대 함께하지 않아\n가식적인 자선 놀이도 이젠 안 해요\n다 몰아낼 거야 저 위선자들\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "제법 근사하게 들려 당신의 말들이\n하지만 달라진 건 없어 저 노동자들\n뭐 불평만 이렇게 하고 싶진 않지만\n잘 생각해봐, 너도 똑같이 너만 생각하잖아\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "모두 내 재단이 앞장서 막아줄 거야\n"
+                        }
+                    ]
+                },
+                {
+                    "number": 19,
+                    "title_en": "And the Money Kept Rolling In",
+                    "title_ko": "돈이 굴러가네",
+                    "lyrics": [
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "여기저기에서 돈이 들어온다네\n에바 예쁜 손이 긁어 모으네\n모두 기부 한다지만 정말 잘 하는 걸까\n그건 중요하지 않아\n어디서든지 돈만 뜯어내면 돼\n누가 돈을 내든 전혀 알 필요 없어\n배고픈 사람들 위해 돈을 쓰면 돼\n기부천사 나셨네 그 이름 에바 페론\n"
+                        },
+                        {
+                            "speaker": "(CHORUS)",
+                            "lyrics": "머니 머니 머니  머니 머니 머니  \n머니 머니 머니  머니 머니 머니  \n머니 머니 머니  머니 머니 머니\n머니 머니 머니  머니 머니 머니  \n여기저기 긁어 모아 이것저것 쓸어 모아 왕창\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "모두 대학 교육 받고 싶나요/원하고 있나요\n좋은 차, 내 집 멋진 여행 꿈 꾸시나요/꿈 꾸고 있나요 \n모든 걸 다 이뤄줄 그 이름 에바 페론\n그 재단이 다 해줄 거야\n너의 꿈과 희망 모두 종이에 적어 봐\n하늘에 던지고 기도하며 기다려\n일주일만 지나면 네 인생 바뀔 거야\n누가 그걸 할까 우리들의 에바 페론\n"
+                        },
+                        {
+                            "speaker": "(CHORUS)",
+                            "lyrics": "머니 머니 머니  머니 머니 머니  \n머니 머니 머니  머니 머니 머니  \n머니 머니 머니  머니 머니 머니\n머니 머니 머니  머니 머니 머니  \n여기저기 긁어 모아 머니마니 왕창\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "이제 알아서 돈이 굴러간다네\n아프고 가난한 사람 위해 돈을 퍼주네 \n그 돈이 조금씩은 사라지기도 하지만\n됐어 뭐 어쩌겠어\n돈이 쓰인 곳 따져 보면 뭐 하나\n주는 사람 받는 사람 행복하면 돼\n꼼꼼히 기록하지 마\n그냥 주고 받아 \n잘 살게만 해줘 우리 여왕 에바 페론\n"
+                        },
+                        {
+                            "speaker": "(CHORUS)",
+                            "lyrics": "머니 머니 머니  머니 머니 머니  \n머니 머니 머니  머니 머니 머니  \n머니 머니 머니  머니 머니 머니\n머니 머니 머니  머니 머니 머니  \n여기저기 돈이 새네 머니마니 왕창\n"
+                        },
+                        {
+                            "speaker": "(간주 22마디)",
+                            "lyrics": "\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "돈이 너무 많이 모여 이걸로 뭐하나\n감당할 수 없이 넘쳐 주체를 못하네\n이 꿈만 같은 돈들을 숨길 곳 어디 없나\n있잖아 스위스 은행\n여기보다 좋은 곳은 없어 최고의 장소지 \n그 누구도 알 수 없는 비밀 금고\n비밀번호 꼭 기억해 three oh one two seven\n비자금의 주인공 바로 에바 페론\n"
+                        },
+                        {
+                            "speaker": "(CHORUS)",
+                            "lyrics": "머니 머니 머니  머니 머니 머니  \n머니 머니 머니  머니 머니 머니  \n머니 머니 머니  머니 머니 머니  \n머니 머니 머니  머니 머니 머니\n여기저기 긁어 모아 이것저것 쓸어 모아\n여기저기 긁어 모아 머니마니 머니-\n"
+                        }
+                    ]
+                },
+                {
+                    "number": 20,
+                    "title_en": "Santa Evita",
+                    "title_ko": "우리 천사 에비타",
+                    "lyrics": [
+                        {
+                            "speaker": "(FEMALE SINGER)",
+                            "lyrics": "우리 천사 에바\n축복을 내려줘요\n사랑해요 당신 위해 기도해요\n항상 축복이 당신과 함께 하기를\n"
+                        },
+                        {
+                            "speaker": "(FEMALE SINGERS)",
+                            "lyrics": "우리 여왕 에바\n당신 품에 사랑으로 우릴 지켜줘요\n우리의 모든 것 되시는 아름다운 천사여\n우리들에겐 오직 당신뿐\n"
+                        },
+                        {
+                            "speaker": "(MALE + FEMALE SINGERS)                                     (CHE)",
+                            "lyrics": "우리 천사 에바,                                            \n배고픈 우릴 위해 도와줘요                              \n                                                               들리나 \n우릴 위해 기도해줘요                                    저 소리 에비타, 저 소리 들어\n오 당신만이 축복해 줄 수 있어요\n"
+                        },
+                        {
+                            "speaker": "(ALL ENSEMBLE)",
+                            "lyrics": "Santa, Santa Evita\n산타 산타 에비타\nMa-dre de to-dos los ni-ños\n마드레 데 토도스 로스 니뇨스\nde los-ti-ra-ni-za-dos, de los descamisados\n데 로스티라니자도스 데 로스 데스카미사도스\nde los tra-ba-ja-dor-es, de l’Argentina\n데 로스 트라바하도레스 델 아르젠티나\n\nSanta, Santa Evita\n산타 산타 에비타\nMa-dre de to-dos los ni-ños\n마드레 데 토도스 로스 니뇨스\nde los-ti-ra-ni-za-dos, de los descamisados\n데 로스티라니자도스 데 로스 데스카미사도스\nde los tra-ba-ja-dor-es, de l’Argentina\n데 로스 트라바하도레스 델 아르젠티나\n​\nSanta, Santa Evita 산타 산타 에비타\nMa-dre de to-dos los ni-ños 마드레 데 토도스 로스 니뇨스\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "세상의 모든 걸 다 가진 사람이 천-사?\n"
+                        }
+                    ]
+                },
+                {
+                    "number": 21,
+                    "title_en": "Waltz for Eva and Che",
+                    "title_ko": "에바와 체의 왈츠",
+                    "lyrics": [
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "말해줘 왈츠가 끝나기 전\n내가 돌아서 가기 전에\n난 당신을 이해하고 싶어\n이 연극은 도대체 언제 끝나지?\n말해줘 시간이 다 되기 전에\n꼭 알고 싶은 게 있어\n어째서 당신이 우리 구세주라는 걸까\n반대세력을 다 제거해놓고\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "원하면 한마디 해드리죠\n모두가 널 잊기 전에\n세상에 모든 걸 내가\n바꿀 수 있다고 생각하셨나\n정직한 당신이 말해 봐 그럼\n내가 뭘 더 해야 하지\n부자든 뭐든 상관없어\n난 오직 힘들고 가난한 국민들 위해\n내 모든 걸 나누어 주었을 뿐\n"
+                        },
+                        {
+                            "speaker": "(EVITA+CHE)",
+                            "lyrics": "정치란 건 악마의 놀이터\n결코 피할 수 없는 곳\n그 누구라도\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "그 악마의 게임에 \n언제나 난 이겨왔어\n내 모든 영광이 사라져 버려도 \n난 후회 안 해\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "후회 없다니 참 고상하시네\n그 영광은 순수했나\n당신을 위한 내 충고\n그 자존심 따위는 버리고 인정해\n실패한 당신의 꿈\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "그 입 닥치고 조용히 빠져주시지\n박수 쳐줄 때 떠나\n가기 전에 내게 말해 봐\n내가 세계 전쟁과 오염문제 \n해결한다고 하면 다들 좋아할까\n해결책 없어 절대 못할 일\n"
+                        },
+                        {
+                            "speaker": "(EVITA+CHE)",
+                            "lyrics": "정치란 건 악마의 놀이터\n결코 피할 수 없는 곳 \n그 누구라도\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "꺼져버려 당신의 혁명이 있는 곳으로\n증오와 분노 쓸모 없는 신념 다 챙겨\n떠나버려\n\n(간주 5마디)\n\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "오- 영원할 수는 없나요\n난 살고 싶어 영원히\n나는 아직 할 일이 많아\n내- 마음은 아직 뜨거운데\n무너져가는 내 몸은\n버틸 수 없어 제발 도와줘\n"
+                        }
+                    ]
+                },
+                {
+                    "number": 22,
+                    "title_en": "She is a Diamond",
+                    "title_ko": "다이아몬드 같은 그녀",
+                    "lyrics": [
+                        {
+                            "speaker": "(OFFICERS)",
+                            "lyrics": "나라 문제에 영부인이 관여하는 건 여기까지야\n이제 더 이상 내버려두면 위험해\n이제 결정을 내려야 할 시간\n부통령 자리까지 넘보다니 \n천박한 출신 주제에\n어디 감히 여자가\n절대 인정 못하지\n선거는 무슨 선거\n페론이나 신경 써\n"
+                        },
+                        {
+                            "speaker": "(PERON)",
+                            "lyrics": "그녀는 민중의 보석이야\n다이아몬드처럼 찬란한 빛으로\n어둠 속의 우리 앞을 밝혔어\n생각해 보면 알지 \n국민들이 그녈 \n얼마나 사랑하는지\n쓸어낼 먼지처럼 보지 마오\n우리가 못다한 일 다 했잖아\n그녀가 영국을 몰아냈어\n혼자 힘으로\n공장도 되찾았어 잘했잖아\n말로 떠드는 건 이젠 그만\n그녀는 지금 너무 지쳤어\n마법 같던 열정도 이제 다 사라져\n아픈 그녈 탓하는 건 비겁해\n사라져가는 별빛을 비웃지마\n우리를(우릴) 지켜준 건 그녀뿐\n"
+                        },
+                        {
+                            "speaker": "(OFFICERS)",
+                            "lyrics": "그녀가 지킨 건 바로 당신뿐\n"
+                        }
+                    ]
+                },
+                {
+                    "number": 23,
+                    "title_en": "Dice are Rolling",
+                    "title_ko": "던져진 주사위",
+                    "lyrics": [
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "Ver01. 부에노스 아이레스, 새로운 소식이 뭔지 알아?\n세계에서 두 번째로 금을 많이 가지고 있던 이 나라가 지금은 파산했다는 거야.\n페론주의에 맞섰던 신문 ‘라 프렌사’는 강제로 폐간됐고, \n다른 정치적 목소리도 전부 짓밟혔지.\n이게 바로 현실이야, 부에노스 아이레스\n/\nVer02. 요즘 어때 부에노스 아이레스, 새로운 소식이 뭔지 아나? \n불과 몇 년 전까지만 해도 세계에서 두 번 째로 많은 금 보유량을 자랑하던  \n이 나라가 지금은 파산했어. \n페론주의에 맞섰던 신문 ‘라 프렌사’는 강제로 침묵 당했고,  \n다른 목소리들도 전부 짓밟혔어. \n이게 네 현실이다, 부에노스 아이레스.\n"
+                        },
+                        {
+                            "speaker": "(PERON)",
+                            "lyrics": "주사위는 던져졌어\n모든 칼날이 우릴 겨냥하고\n끝도 없이 우릴 조여오네 \n무너지길 기다리네\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "아직 우리에겐 힘이 있어요\n노동자들 우리를 믿고 있어\n저들이 우리를 이끌었죠\n정치가들 따위 아무 쓸모 없어\n"
+                        },
+                        {
+                            "speaker": "(PERON)",
+                            "lyrics": "저 길거리의 많은 군중들\n어떻게 변할지 모르는 일\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "아니! 국민은 나의 편\n"
+                        },
+                        {
+                            "speaker": "(PERON)",
+                            "lyrics": "국민은 누구 편도 아냐\n변덕스럽고 쉽게 조종당하지\n모든 국민이 사랑한다 해도\n여기 정치판에서 살아남기 힘들어 에바\n정치는 제발 포기해\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "포기하라고?\n그럼 내 존잰 없어\n국민에게 물어봐\n내가 누구인지\n내가 바로(곧) Argentina\n당신의 장군들 \n부모도 몰라보는 쓰레기들\n내가 부통령이 되면 \n날 인정하게 될 거야\n"
+                        },
+                        {
+                            "speaker": "(PERON)",
+                            "lyrics": "제발 그만, 그 얘긴 제발 이제 그만\n이길 수가 없어 \n저들은 생각보다 더 강해 에바\n혹시 이긴다 해도,\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "뭐?\n"
+                        },
+                        {
+                            "speaker": "(PERON)",
+                            "lyrics": "아픈 걸 이겨낼 수 없잖아\n조금씩 약해지는 당신 모습\n나에겐 여전히 너무 아름답지만\n눈부신 미소 눈빛 흐려져 가\n이제 더 무리하면 쓰러질지 몰라\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "고통 따위 이겨낼 수 있어\n난 괜찮아요 다시 일어날 거야 \n난 여기서 절대 멈출 수 없어\n내가 무너진 거 본 적 없잖아\n벌써 잊었나요 함께 이뤄냈던 일들\n내가 아픈 것 그걸 이용할 수 있어(요)\n"
+                        },
+                        {
+                            "speaker": "(PERON)",
+                            "lyrics": "이용하라고?\n당신 지금 죽어가고 있어\n당신을 보낼 수 없어\n“당신은 죽지 않아.”\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "난 꼭 부통령이 될 거야\n국민들이 나를 원해요\n국민들이 선택한 우리 둘\n광장에서 왕관을 쓸 거야\n모든 거리 모든 장소 모든 사람\n모두 날 원해 잘 봐\n날 보며 Argentina 외치네\n난 이제 부통령이 될 거야\n(간주-10마디)\n"
+                        },
+                        {
+                            "speaker": "(PERON)",
+                            "lyrics": "어떻게 하나\n이젠 어쩌나\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "어디로 가야 해?\n"
+                        },
+                        {
+                            "speaker": "(PERON)",
+                            "lyrics": "아무 말 말아요\n"
+                        }
+                    ]
+                },
+                {
+                    "number": 24,
+                    "title_en": "You Must Love Me",
+                    "title_ko": "사랑으로",
+                    "lyrics": [
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "어디로 가는지\n어둠 속에 길을 잃어가요\n우리의 꿈 우리의 믿음도\n점점 희미해져\n확신도 사라져\n꿈을 향해 달려 온 시간들\n어떡하면 다시 되살리죠?\n예전 그대로\n내 마음 깊은 그 곳에\n진심을 숨겼어요\n모든 걸 다 말한다면 \n그대 떠날까 봐\n당신이 날 지켜줘요\n무너져가는 날\n따뜻하게 바라보는 당신\n그래요 나 당신을 믿죠\n우린 변함 없어\n내 마음 깊은 그 곳에\n진심을 숨겼어요\n모든 걸 다 말한다면 \n그대 떠날까 봐\n당신이 날 지켜줘요\n사랑으로\n"
+                        }
+                    ]
+                },
+                {
+                    "number": 25,
+                    "title_en": "Eva’s Final Broadcast",
+                    "title_ko": "에바의 마지막 연설",
+                    "lyrics": [
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "날 이해해줘요 에비타 난 봐야겠어\n당신이 죽음을 어찌 받아들일지\n자 준비됐죠? 마지막 방송을\n국민들께 한 말씀\n"
+                        },
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "이젠 더 이상 드릴 말씀이 없어요\n결국 이런 모습으로\n이 나라를 생각하면 마음이 아파요\n아픈 내 몸처럼\n국민 여러분과 나의 Argentina\n여러분이 내게 주신\n모든 영광을 여기 두고 떠나요\n넘치는 사랑\n나를 있게 해 준 나의 전부였던 여러분 \n그리고 나의 사랑 페론\nDon’t cry for me, Argentina \n그 약속 기억하나요\n변하지 않는 그대의 사랑\n떠난다 해도 난 변치 않아\n너무 길었죠 더 이상 할 말이 생각나지 않네요\n하지만 나의 말과 진심을 기억해 주세요 영원히\n"
+                        }
+                    ]
+                },
+                {
+                    "number": 26,
+                    "title_en": "Montage",
+                    "title_ko": "몽타주",
+                    "lyrics": [
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "그래 좋아 좀 멋있었어\n수 많은 사람들 모여 울면서 외치는 그 이름 에바 페론\n"
+                        },
+                        {
+                            "speaker": "(CROWD)",
+                            "lyrics": "Pe-ron, Pe-ron, Pe-ron, Pe-ron\n"
+                        },
+                        {
+                            "speaker": "(CHE)",
+                            "lyrics": "이젠 끝났어\n"
+                        },
+                        {
+                            "speaker": "(CROWD)",
+                            "lyrics": "E-vi-ta Pe-ron La San-ta Peron-is-ta\nE-vi-ta Pe-ron La San-ta Peron-is-ta\n"
+                        },
+                        {
+                            "speaker": "(MAGALDI)",
+                            "lyrics": "에바, 너의 그 큰 야망\n"
+                        },
+                        {
+                            "speaker": "(간주)",
+                            "lyrics": "\n"
+                        },
+                        {
+                            "speaker": "(EVITA)",
+                            "lyrics": "저도 같은 마음이에요\n의도하지는 않았지만\n이렇게 가까이 둘이서\n눈 맞추며 얘길 하다니\n"
+                        },
+                        {
+                            "speaker": "(간주)",
+                            "lyrics": "\n"
+                        },
+                        {
+                            "speaker": "(CHORUS)",
+                            "lyrics": "A New Argentina 새 희망을 꿈꿔보자\nA New Argentina 한 목소리 모아\n높이 외쳐 함께 외쳐 영원하리라\n"
+                        },
+                        {
+                            "speaker": "(ENSEMBLE)",
+                            "lyrics": "E-vi-ta_____, E-vi-ta_____,\nE-vi-ta Pe-ron_, E-vi-ta Pe-ron_,\nE-vi-ta Pe-ron La San-ta Peron-is-ta\n"
+                        },
+                        {
+                            "speaker": "(PERON)                                            (ENSEMBLE)",
+                            "lyrics": "어디로 가는지\n따뜻하게 바라보는 당신\n그래요 나 당신을 믿죠 우린 변함 없어\nSan-ta, San-ta E-vi-ta \n산타 산타 에비타\nMa-dre de to-dos los ni-ños \n마드레 데 토도스 로스 니뇨스\nde los-ti-ra-ni-za-dos, de los descami-\n"
+                        },
+                        {
+                            "speaker": "(CHE)                                               (ENSEMBLE)",
+                            "lyrics": "데 로스티라니자도스 데 로스 데스카미-\n바보들 너흰 틀렸어 기도해                              -sados de los tra-ba-ja-dor-es, \n-사도스 데 로스 트라바하도레스 \n그래 끝난 거야 너희 여왕은                                      de l’Argentina\n델 아르젠티나\n이미 죽었어 \n죽었다고 영원히                                           San-ta, San-ta E-vi-ta \n산타 산타 에비타\n들리나 저 소리 에비타 저 소리 들어                   Ma-dre de to-dos los ni-ños \n마드레 데 토도스 로스 니뇨스\n                                                               de los-ti-ra-ni- \n                                                               데 로스티라니-\n세상의 모든 걸 다 가진 사람이                                  -za-dos, de los descami- \n                                                               -자도스 데 로스 데스카미-            \n바보들 너흰 틀렸어 기도해                              -sados de los tra-ba-ja-dor-es, \n-사도스 데 로스 트라바하도레스 \n그래 끝난 거야 너희 여왕은                                      de l’Argentina\n델 아르젠티나\n이미 죽었어 죽었다고 영원히\n"
+                        }
+                    ]
+                },
+                {
+                    "number": 27,
+                    "title_en": "Lament",
+                    "title_ko": "비가",
+                    "lyrics": [
+                        {
+                            "speaker": "(EVA)",
+                            "lyrics": "내가 선택한 나의 인생\n내가 원한 건 다 이뤘죠\n내 인생 찬란하게 빛났지만\n너무 모자란 시간들\n기억나 내가 어렸을 때\n하루가 천 년처럼 길었지\n그런 힘든 시간 필요 없었어\n난 빛을 향해 나아갔었지\n찬란한 내 인생\n너무 빨리 사라져\nCUT------------- to 36마디\nArgentina, 내 사랑\n나를 기억해줘요\n"
+                        },
+                        {
+                            "speaker": "(MOURNERS)",
+                            "lyrics": "Eyes Hair Face Image\n영원히 살길 이 곳에서 영원히\n이 곳에서 영원히\n"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "styles": {
+        "EVA": {
+            "color": "#E57373"
+        },
+        "CHE": {
+            "color": "#64B5F6"
+        },
+        "PERON": {
+            "color": "#81C784"
+        },
+        "MAGALDI": {
+            "color": "#BA68C8"
+        },
+        "CHORUS": {
+            "color": "#B0BEC5"
+        }
+    },
+    "parsingRules": {
+        "speakerPattern": "\\((.*?)\\)",
+        "lineSplit": "\n"
+    }
+}
