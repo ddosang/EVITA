@@ -1,4 +1,5 @@
 import json
+import os
 
 def parse_multiple_blocks(text):
     # 빈 줄 기준으로 블록 분리
@@ -61,7 +62,8 @@ def parse_txt_file(input_path, output_path=None):
 # 사용 예시
 # -----------------------------
 # lyrics.txt 파일을 읽어서 parsed.json 으로 저장
-parsed_json = parse_txt_file("lyrics.txt", "parsed.json")
+print(os.getcwd())
+parsed_json = parse_txt_file("input.txt", "parsed.json")
 
 # 콘솔에 출력
 # print(json.dumps(parsed_json, indent=4, ensure_ascii=False))
