@@ -1,0 +1,17 @@
+/* 왼쪽 고정(이전 버튼) */
+.btn-prev {
+  position: fixed;
+  left: 16px;
+  bottom: calc(0% + 10px);
+  z-index: 999;
+  padding: 12px;
+}
+
+/* 오른쪽 고정(다음 버튼) */
+.btn-next {
+  position: fixed;
+  right: 16px;
+  bottom: calc(0% + 10px);
+  z-index: 999;
+  padding: 12px;
+}

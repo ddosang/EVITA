@@ -1,3 +1,6 @@
+import "./AppBar.css";
+import { List, Search } from 'react-bootstrap-icons';
+
 function AppBar() {
   return (
     <>
@@ -5,16 +8,18 @@ function AppBar() {
         onClick={() => {
           console.log("menu");
         }}
+        className="btn-appbar btn-menu"
       >
-        menu
+       <List></List> 
       </button>
       <h1>EVITA</h1>
       <button
         onClick={() => {
           console.log("search");
         }}
+        className="btn-appbar btn-search"
       >
-        search
+        <Search></Search>
       </button>
     </>
   );
