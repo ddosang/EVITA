@@ -1,17 +1,54 @@
-/* 왼쪽 고정(이전 버튼) */
-.btn-prev {
+.bottomnav-item {
   position: fixed;
-  left: 16px;
-  bottom: calc(0% + 10px);
-  z-index: 999;
-  padding: 12px;
+  bottom: 12px;
+  z-index: 1200;
+
+  display: flex;
+  align-items: center;
+  gap: 8px;
+
+  text-align: left;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background: #fff;
+  border-radius: 10px;
+  padding: 10px 10px;
+  cursor: pointer;
+
+  max-width: min(46vw, 260px);
 }
 
-/* 오른쪽 고정(다음 버튼) */
-.btn-next {
-  position: fixed;
+.bottomnav-prev {
+  left: 16px;
+}
+
+.bottomnav-next {
   right: 16px;
-  bottom: calc(0% + 10px);
-  z-index: 999;
-  padding: 12px;
+}
+
+.bottomnav-icon {
+  width: 18px;
+  height: 18px;
+  flex: 0 0 auto;
+}
+
+.bottomnav-text {
+  min-width: 0;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.2;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@media (max-width: 420px) {
+  .bottomnav-item {
+    bottom: 10px;
+    max-width: min(46vw, 220px);
+    padding: 10px 9px;
+  }
+
+  .bottomnav-text {
+    font-size: 13px;
+  }
 }

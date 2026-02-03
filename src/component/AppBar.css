@@ -1,20 +1,52 @@
+.appbar {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 56px;
+  background-color: white;
+}
+
 .btn-appbar {
   background-color: transparent;
   border-color: transparent;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 23px;
+  height: 23px;
+  padding: 0;
+  cursor: pointer;
 }
 
 .btn-menu {
-  position: fixed;
+  position: absolute;
   left: 16px;
-  top: calc(0% + 10px);
-  z-index: 999;
-  padding: 12px;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 .btn-search {
-  position: fixed;
+  position: absolute;
   right: 16px;
-  top: calc(0% + 10px);
-  z-index: 999;
-  padding: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.btn-appbar svg {
+  width: 24px;
+  height: 24px;
+}
+
+.heading_1 {
+  margin: 0;
+  padding: 0;
+  font-size: 30px;
+  line-height: 1;
 }

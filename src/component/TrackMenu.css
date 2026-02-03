@@ -1,0 +1,73 @@
+.trackmenu-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 2000;
+  background: rgba(0, 0, 0, 0.35);
+  display: flex;
+  justify-content: flex-start;
+}
+
+.trackmenu-sheet {
+  width: min(86vw, 360px);
+  height: 100dvh;
+  background: #fff;
+  box-shadow: 8px 0 24px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+}
+
+.trackmenu-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 12px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.trackmenu-title {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.trackmenu-close {
+  border: 0;
+  background: transparent;
+  padding: 8px 10px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.trackmenu-list {
+  padding: 8px;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  display: grid;
+  gap: 6px;
+}
+
+.trackmenu-item {
+  text-align: left;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background: #fff;
+  border-radius: 10px;
+  padding: 10px 10px;
+  cursor: pointer;
+}
+
+.trackmenu-item.is-active {
+  border-color: rgba(13, 110, 253, 0.7);
+  background: rgba(13, 110, 253, 0.06);
+}
+
+.trackmenu-item-main {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.trackmenu-item-sub {
+  margin-top: 2px;
+  font-size: 12px;
+  opacity: 0.7;
+  line-height: 1.2;
+}

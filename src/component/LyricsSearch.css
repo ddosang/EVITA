@@ -1,0 +1,80 @@
+.searchbar {
+  display: grid;
+  grid-template-columns: 18px 1fr 34px;
+  align-items: center;
+  gap: 8px;
+
+  padding: 10px 12px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.searchbar-icon {
+  width: 18px;
+  height: 18px;
+  opacity: 0.7;
+}
+
+.searchbar-input {
+  width: 100%;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: 10px;
+  padding: 10px 10px;
+  font-size: 14px;
+  outline: none;
+}
+
+.searchbar-input:focus {
+  border-color: rgba(13, 110, 253, 0.6);
+  box-shadow: 0 0 0 3px rgba(13, 110, 253, 0.12);
+}
+
+.searchbar-clear {
+  border: 0;
+  background: transparent;
+  padding: 6px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.searchbar-clear svg {
+  width: 18px;
+  height: 18px;
+}
+
+.searchmeta {
+  padding: 8px 12px;
+}
+
+.searchmeta-text {
+  font-size: 12px;
+  opacity: 0.7;
+}
+
+.search-item {
+  display: grid;
+  gap: 4px;
+}
+
+.search-item-meta {
+  font-size: 12px;
+  opacity: 0.75;
+}
+
+.search-item-snippet {
+  font-size: 13px;
+  line-height: 1.25;
+}
+
+.search-item-line {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.search-empty {
+  padding: 12px;
+  font-size: 13px;
+  opacity: 0.7;
+}

@@ -1,0 +1,89 @@
+.heading_1 {
+  margin: 0;
+  padding: 0;
+  font-size: 30px;
+  line-height: 1;
+}
+
+.heading_2 {
+    margin: 0;
+  padding: 20px;
+  font-size: 20px;
+  line-height: 1;
+}
+
+.heading_3 {
+    margin: 0;
+  padding: 10px;
+  font-size: 18px;
+  line-height: 1;
+}
+
+.paragraph {
+  white-space: pre-wrap;
+  font-size: 15px;
+  overflow-wrap: anywhere;
+  word-break: keep-all;
+}
+
+.lyric-block {
+  padding: 0 16px 10px;
+}
+
+.lyric-speaker-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  column-gap: 12px;
+  padding: 10px 10px 6px;
+  font-size: 18px;
+  line-height: 1.2;
+  font-weight: 600;
+}
+
+.lyric-speaker {
+  min-width: 0;
+}
+
+.lyric-grid {
+  display: grid;
+  row-gap: 4px;
+}
+
+.lyric-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  column-gap: 12px;
+}
+
+.lyric-col {
+  min-width: 0;
+  white-space: pre-wrap;
+  font-size: 15px;
+  line-height: 1.35;
+  overflow-wrap: anywhere;
+  word-break: keep-all;
+}
+
+@media (max-width: 420px) {
+  .heading_2 {
+    padding: 16px;
+  }
+
+  .lyric-block {
+    padding: 0 12px 10px;
+  }
+
+  .lyric-speaker-row {
+    column-gap: 8px;
+    padding: 10px 8px 6px;
+    font-size: 16px;
+  }
+
+  .lyric-row {
+    column-gap: 8px;
+  }
+
+  .lyric-col {
+    font-size: 14px;
+  }
+}

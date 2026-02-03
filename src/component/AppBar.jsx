@@ -1,27 +1,32 @@
+import { List, Search } from "react-bootstrap-icons";
 import "./AppBar.css";
-import { List, Search } from 'react-bootstrap-icons';
+import "./Common.css";
 
-function AppBar() {
+function AppBar({ onMenuClick, onSearchClick }) {
   return (
-    <>
+    <header className="appbar" role="banner">
       <button
         onClick={() => {
-          console.log("menu");
+          if (onMenuClick) onMenuClick();
         }}
         className="btn-appbar btn-menu"
+        type="button"
+        aria-label="Open menu"
       >
-       <List></List> 
+        <List></List>
       </button>
-      <h1>EVITA</h1>
+      <h1 className="heading_1">EVITA</h1>
       <button
         onClick={() => {
-          console.log("search");
+          if (onSearchClick) onSearchClick();
         }}
         className="btn-appbar btn-search"
+        type="button"
+        aria-label="Search"
       >
         <Search></Search>
       </button>
-    </>
+    </header>
   );
 }
 
