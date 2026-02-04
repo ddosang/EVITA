@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef } from "react";
 import { Search, X } from "react-bootstrap-icons";
-import "./TrackMenu.css";
 import "./LyricsSearch.css";
+import "./TrackMenu.css";
 
 function LyricsSearch({
   open,
@@ -12,6 +12,36 @@ function LyricsSearch({
   onSelectResult,
 }) {
   const inputRef = useRef(null);
+
+  const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+
+  const renderHighlighted = (text, q) => {
+    const raw = (text ?? "").toString();
+    const needle = (q ?? "").toString().trim();
+    if (!needle) return raw;
+
+    const re = new RegExp(escapeRegExp(needle), "gi");
+    const parts = [];
+    let lastIndex = 0;
+    let match;
+    while ((match = re.exec(raw)) !== null) {
+      const start = match.index;
+      const end = start + match[0].length;
+      if (start > lastIndex) parts.push(raw.slice(lastIndex, start));
+      parts.push(
+        <mark
+          key={`m-${start}-${end}`}
+          className="search-highlight"
+          data-search-highlight="true"
+        >
+          {raw.slice(start, end)}
+        </mark>,
+      );
+      lastIndex = end;
+    }
+    if (lastIndex < raw.length) parts.push(raw.slice(lastIndex));
+    return parts.length ? parts : raw;
+  };
 
   useEffect(() => {
     if (!open) return;
@@ -41,7 +71,7 @@ function LyricsSearch({
 
   return (
     <div
-      className="trackmenu-overlay"
+      className="trackmenu-overlay search-overlay"
       role="presentation"
       onClick={() => onClose?.()}
     >
@@ -95,7 +125,7 @@ function LyricsSearch({
               {results.length} result{results.length === 1 ? "" : "s"}
             </div>
           ) : (
-            <div className="searchmeta-text">검색어를 입력해줘</div>
+            <div className="searchmeta-text">검색어를 입력해주세요.</div>
           )}
         </div>
 
@@ -111,12 +141,17 @@ function LyricsSearch({
                 >
                   <div className="trackmenu-item-main">{r.trackTitle}</div>
                   <div className="search-item-meta">
-                    {r.speaker ? r.speaker : "(no speaker)"}
+                    {r.speaker
+                      ? renderHighlighted(r.speaker, normalizedQuery)
+                      : "(no speaker)"}
                   </div>
                   <div className="search-item-snippet">
                     {r.snippetLines.map((line, idx) => (
-                      <div key={`${r.id}-snip-${idx}`} className="search-item-line">
-                        {line}
+                      <div
+                        key={`${r.id}-snip-${idx}`}
+                        className="search-item-line"
+                      >
+                        {renderHighlighted(line, normalizedQuery)}
                       </div>
                     ))}
                   </div>

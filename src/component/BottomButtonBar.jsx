@@ -9,7 +9,9 @@ function BottomButtonBar({
   handleNext,
 }) {
   return (
-    <>
+    <div className="bottomnav" role="navigation" aria-label="Track navigation">
+      <div className="bottomnav-gradient" aria-hidden="true" />
+
       {previousTitle ? (
         <button
           onClick={handlePrevious}
@@ -21,6 +23,7 @@ function BottomButtonBar({
           <span className="bottomnav-text">{previousTitle}</span>
         </button>
       ) : null}
+
       {nextTitle ? (
         <button
           onClick={handleNext}
@@ -32,7 +35,7 @@ function BottomButtonBar({
           <ArrowRightCircle className="bottomnav-icon" />
         </button>
       ) : null}
-    </>
+    </div>
   );
 }
 

@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import "./App.css";
 import AppBar from "./component/AppBar";
 import BottomButtonBar from "./component/BottomButtonBar";
@@ -15,6 +15,12 @@ function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isSearchOpen, setIsSearchOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
+  const [activeHighlight, setActiveHighlight] = useState(null);
+
+  const clearHighlight = ({ clearQuery } = { clearQuery: false }) => {
+    setActiveHighlight(null);
+    if (clearQuery) setSearchQuery("");
+  };
 
   console.log(data.acts[1]);
 
@@ -100,9 +106,12 @@ function App() {
             const normalizedLine = (line ?? "").toString().toLowerCase();
             if (!normalizedLine.includes(q)) return;
 
-            const snippetLines = [lines[lineIndex] ?? "", lines[lineIndex + 1] ?? ""].filter(
-              (s) => s !== undefined,
-            );
+            const nextLine = lines[lineIndex + 1];
+            const prevLine = lines[lineIndex - 1];
+            const snippetLines = [
+              lines[lineIndex] ?? "",
+              typeof nextLine === "string" ? nextLine : typeof prevLine === "string" ? prevLine : "",
+            ].filter((s) => s !== undefined && s !== null);
 
             results.push({
               id: `${globalIndex}-${blockIndex}-${lineIndex}`,
@@ -110,6 +119,7 @@ function App() {
               trackTitle,
               speaker,
               snippetLines,
+              blockIndex,
               lineIndex,
             });
           });
@@ -119,6 +129,19 @@ function App() {
 
     return results.slice(0, 100);
   }, [data.acts, searchQuery]);
+
+  useEffect(() => {
+    if (!activeHighlight?.query) return;
+
+    const onPointerDown = (e) => {
+      const keep = e.target?.closest?.('[data-search-highlight="true"]');
+      if (keep) return;
+      clearHighlight({ clearQuery: true });
+    };
+
+    window.addEventListener("pointerdown", onPointerDown);
+    return () => window.removeEventListener("pointerdown", onPointerDown);
+  }, [activeHighlight?.query]);
 
   const increaseIndex = () => {
     calculateActAndIndex(index + 1);
@@ -134,10 +157,12 @@ function App() {
         onMenuClick={() => {
           setIsMenuOpen(true);
           setIsSearchOpen(false);
+          clearHighlight({ clearQuery: Boolean(activeHighlight?.query) });
         }}
         onSearchClick={() => {
           setIsSearchOpen(true);
           setIsMenuOpen(false);
+          clearHighlight({ clearQuery: Boolean(activeHighlight?.query) });
         }}
       />
       <TrackMenu
@@ -147,6 +172,7 @@ function App() {
         currentIndex={index}
         onSelectIndex={(nextIndex) => {
           setIsMenuOpen(false);
+          clearHighlight({ clearQuery: Boolean(activeHighlight?.query) });
           calculateActAndIndex(nextIndex);
         }}
       />
@@ -158,15 +184,30 @@ function App() {
         results={searchResults}
         onSelectResult={(r) => {
           setIsSearchOpen(false);
+
+          const blockId = `lyric-block-${r.blockIndex}`;
+          const rowId = `lyric-hit-${r.blockIndex}-${r.lineIndex}`;
+          setActiveHighlight({
+            query: searchQuery,
+            index: r.index,
+            blockId,
+            rowId,
+          });
           calculateActAndIndex(r.index);
         }}
       />
-      <Lyrics track={data.acts[act].tracks[trackNumber]} />
+      <Lyrics track={data.acts[act].tracks[trackNumber]} highlight={activeHighlight} />
       <BottomButtonBar
         previousTitle={getTitle(index - 1)}
         nextTitle={getTitle(index + 1)}
-        handlePrevious={decreaseIndex}
-        handleNext={increaseIndex}
+        handlePrevious={() => {
+          clearHighlight({ clearQuery: Boolean(activeHighlight?.query) });
+          decreaseIndex();
+        }}
+        handleNext={() => {
+          clearHighlight({ clearQuery: Boolean(activeHighlight?.query) });
+          increaseIndex();
+        }}
       />
     </div>
   );

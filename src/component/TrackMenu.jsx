@@ -1,9 +1,12 @@
-import { useEffect } from "react";
+import { useEffect, useRef } from "react";
 import { X } from "react-bootstrap-icons";
 import "./AppBar.css";
 import "./TrackMenu.css";
 
 function TrackMenu({ open, onClose, items, currentIndex, onSelectIndex }) {
+  const listRef = useRef(null);
+  const activeItemRef = useRef(null);
+
   useEffect(() => {
     if (!open) return;
 
@@ -14,6 +17,16 @@ function TrackMenu({ open, onClose, items, currentIndex, onSelectIndex }) {
     const previousOverflow = document.body.style.overflow;
     document.body.style.overflow = "hidden";
     window.addEventListener("keydown", onKeyDown);
+
+    // After the sheet renders, align the active item to the top of the list.
+    requestAnimationFrame(() => {
+      const listEl = listRef.current;
+      const activeEl = activeItemRef.current;
+      if (!listEl || !activeEl) return;
+
+      const top = activeEl.offsetTop - listEl.offsetTop;
+      listEl.scrollTo({ top, behavior: "auto" });
+    });
 
     return () => {
       document.body.style.overflow = previousOverflow;
@@ -48,7 +61,7 @@ function TrackMenu({ open, onClose, items, currentIndex, onSelectIndex }) {
           </button>
         </div>
 
-        <nav className="trackmenu-list" aria-label="Tracks">
+        <nav className="trackmenu-list" aria-label="Tracks" ref={listRef}>
           {items.map((item) => {
             const isActive = item.index === currentIndex;
             return (
@@ -56,6 +69,7 @@ function TrackMenu({ open, onClose, items, currentIndex, onSelectIndex }) {
                 key={`track-${item.index}`}
                 type="button"
                 className={`trackmenu-item${isActive ? " is-active" : ""}`}
+                ref={isActive ? activeItemRef : null}
                 onClick={() => onSelectIndex?.(item.index)}
               >
                 <div className="trackmenu-item-main">{item.title}</div>

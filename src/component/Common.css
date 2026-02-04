@@ -53,6 +53,17 @@
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   column-gap: 12px;
+  scroll-margin-top: 76px;
+}
+
+.lyric-block {
+  scroll-margin-top: 76px;
+}
+
+.search-highlight {
+  background: rgba(255, 214, 10, 0.55);
+  border-radius: 4px;
+  padding: 0 2px;
 }
 
 .lyric-col {
