@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e485f6bd.css",
-    "main.js": "/static/js/main.a95d8787.js",
-    "static/js/453.b36d8270.chunk.js": "/static/js/453.b36d8270.chunk.js",
-    "index.html": "/index.html",
-    "main.e485f6bd.css.map": "/static/css/main.e485f6bd.css.map",
-    "main.a95d8787.js.map": "/static/js/main.a95d8787.js.map",
-    "453.b36d8270.chunk.js.map": "/static/js/453.b36d8270.chunk.js.map"
+    "main.css": "/EVITA/static/css/main.e485f6bd.css",
+    "main.js": "/EVITA/static/js/main.d4f2b067.js",
+    "static/js/453.b36d8270.chunk.js": "/EVITA/static/js/453.b36d8270.chunk.js",
+    "index.html": "/EVITA/index.html",
+    "main.e485f6bd.css.map": "/EVITA/static/css/main.e485f6bd.css.map",
+    "main.d4f2b067.js.map": "/EVITA/static/js/main.d4f2b067.js.map",
+    "453.b36d8270.chunk.js.map": "/EVITA/static/js/453.b36d8270.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e485f6bd.css",
-    "static/js/main.a95d8787.js"
+    "static/js/main.d4f2b067.js"
   ]
 }
