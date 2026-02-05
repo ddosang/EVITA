@@ -26,7 +26,7 @@ function App() {
 
   const calculateActAndIndex = (newIndex) => {
     console.log(newIndex, newIndex - 12);
-    if (newIndex < 0 || newIndex >= 26) {
+    if (newIndex < 0 || newIndex >= 28) {
       return;
     }
 
@@ -59,7 +59,7 @@ function App() {
 
   const getTitle = (index) => {
     console.log(index, index - 12);
-    if (index < 0 || index >= 26) {
+    if (index < 0 || index >= 28) {
       return "";
     }
 
