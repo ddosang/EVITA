@@ -4,6 +4,7 @@
 
 .trackmenu-overlay.search-overlay .trackmenu-sheet {
   box-shadow: -8px 0 24px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
 }
 
 .search-highlight {
@@ -17,9 +18,9 @@
   grid-template-columns: 18px 1fr 34px;
   align-items: center;
   gap: 8px;
-
   padding: 10px 12px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  flex-shrink: 0;
 }
 
 .searchbar-icon {
@@ -35,6 +36,7 @@
   padding: 10px 10px;
   font-size: 14px;
   outline: none;
+  min-width: 0;
 }
 
 .searchbar-input:focus {
@@ -59,6 +61,7 @@
 
 .searchmeta {
   padding: 8px 12px;
+  flex-shrink: 0;
 }
 
 .searchmeta-text {
@@ -69,22 +72,34 @@
 .search-item {
   display: grid;
   gap: 4px;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  min-width: 0;
 }
 
 .search-item-meta {
   font-size: 12px;
   opacity: 0.75;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  min-width: 0;
 }
 
 .search-item-snippet {
   font-size: 13px;
   line-height: 1.25;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  min-width: 0;
 }
 
 .search-item-line {
   overflow: hidden;
   text-overflow: ellipsis;
-  white-space: nowrap;
+  white-space: normal;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  min-width: 0;
 }
 
 .search-empty {
