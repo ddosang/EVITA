@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/EVITA/static/css/main.7714f4c6.css",
-    "main.js": "/EVITA/static/js/main.d4f2b067.js",
+    "main.js": "/EVITA/static/js/main.4c18dd24.js",
     "static/js/453.b36d8270.chunk.js": "/EVITA/static/js/453.b36d8270.chunk.js",
     "index.html": "/EVITA/index.html",
     "main.7714f4c6.css.map": "/EVITA/static/css/main.7714f4c6.css.map",
-    "main.d4f2b067.js.map": "/EVITA/static/js/main.d4f2b067.js.map",
+    "main.4c18dd24.js.map": "/EVITA/static/js/main.4c18dd24.js.map",
     "453.b36d8270.chunk.js.map": "/EVITA/static/js/453.b36d8270.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7714f4c6.css",
-    "static/js/main.d4f2b067.js"
+    "static/js/main.4c18dd24.js"
   ]
 }
