@@ -1,8 +1,8 @@
-.search-overlay {
+.trackmenu-overlay.search-overlay {
   justify-content: flex-end;
 }
 
-.search-overlay .trackmenu-sheet {
+.trackmenu-overlay.search-overlay .trackmenu-sheet {
   box-shadow: -8px 0 24px rgba(0, 0, 0, 0.2);
 }
 
