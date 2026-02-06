@@ -1,10 +1,10 @@
 import { useEffect, useMemo, useState } from "react";
-import AppBar from "./components/AppBar";
-import BottomButtonBar from "./components/BottomButtonBar";
-import Lyrics from "./components/Lyrics";
-import LyricsSearch from "./components/LyricsSearch";
-import TrackMenu from "./components/TrackMenu";
-import lyricsData from "./evita_lyrics.json";
+import AppBar from "../components/AppBar";
+import BottomButtonBar from "../components/BottomButtonBar";
+import Lyrics from "../components/Lyrics";
+import LyricsSearch from "../components/LyricsSearch";
+import TrackMenu from "../components/TrackMenu";
+import lyricsData from "../evita_lyrics.json";
 
 function LyricsPage() {
   const data = lyricsData;

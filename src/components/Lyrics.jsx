@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import "./Common.css";
+import "../styles/Common.css";
 
 function Lyrics({ track, highlight }) {
   const highlightQuery = (highlight?.query ?? "").toString().trim();

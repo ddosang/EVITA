@@ -1,6 +1,6 @@
 import { ArrowLeftCircle, ArrowRightCircle } from "react-bootstrap-icons";
 import "./BottomButtonBar.css";
-import "./Common.css";
+import "../styles/Common.css";
 
 function BottomButtonBar({
   previousTitle,
