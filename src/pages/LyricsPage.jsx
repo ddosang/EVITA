@@ -1,13 +1,12 @@
 import { useEffect, useMemo, useState } from "react";
-import "./App.css";
-import AppBar from "./component/AppBar";
-import BottomButtonBar from "./component/BottomButtonBar";
-import Lyrics from "./component/Lyrics";
-import LyricsSearch from "./component/LyricsSearch";
-import TrackMenu from "./component/TrackMenu";
+import AppBar from "./components/AppBar";
+import BottomButtonBar from "./components/BottomButtonBar";
+import Lyrics from "./components/Lyrics";
+import LyricsSearch from "./components/LyricsSearch";
+import TrackMenu from "./components/TrackMenu";
 import lyricsData from "./evita_lyrics.json";
 
-function App() {
+function LyricsPage() {
   const data = lyricsData;
   const [act, setAct] = useState(0);
   const [index, setIndex] = useState(0);
@@ -110,7 +109,11 @@ function App() {
             const prevLine = lines[lineIndex - 1];
             const snippetLines = [
               lines[lineIndex] ?? "",
-              typeof nextLine === "string" ? nextLine : typeof prevLine === "string" ? prevLine : "",
+              typeof nextLine === "string"
+                ? nextLine
+                : typeof prevLine === "string"
+                  ? prevLine
+                  : "",
             ].filter((s) => s !== undefined && s !== null);
 
             results.push({
@@ -152,7 +155,7 @@ function App() {
   };
 
   return (
-    <div className="App">
+    <>
       <AppBar
         onMenuClick={() => {
           setIsMenuOpen(true);
@@ -196,7 +199,10 @@ function App() {
           calculateActAndIndex(r.index);
         }}
       />
-      <Lyrics track={data.acts[act].tracks[trackNumber]} highlight={activeHighlight} />
+      <Lyrics
+        track={data.acts[act].tracks[trackNumber]}
+        highlight={activeHighlight}
+      />
       <BottomButtonBar
         previousTitle={getTitle(index - 1)}
         nextTitle={getTitle(index + 1)}
@@ -209,8 +215,8 @@ function App() {
           increaseIndex();
         }}
       />
-    </div>
+    </>
   );
 }
 
-export default App;
+export default LyricsPage;
