@@ -65,7 +65,7 @@ function Lyrics({ track, highlight }) {
 
   return (
     <>
-      <h2 className="heading_2">{`${track.order}. ${track.title_ko} | ${track.title_en}`}</h2>
+      <h2>{`${track.order}. ${track.title_ko} | ${track.title_en}`}</h2>
 
       {track
         ? track.lyrics_raw.map((lyric, blockIndex) => {
@@ -90,10 +90,14 @@ function Lyrics({ track, highlight }) {
                   {(speakerLeft || speakerRight) && (
                     <div className="lyric-speaker-row" aria-label="Speakers">
                       <div className="lyric-speaker">
-                        {speakerLeft ? renderHighlighted(speakerLeft) : "\u00A0"}
+                        {speakerLeft
+                          ? renderHighlighted(speakerLeft)
+                          : "\u00A0"}
                       </div>
                       <div className="lyric-speaker">
-                        {speakerRight ? renderHighlighted(speakerRight) : "\u00A0"}
+                        {speakerRight
+                          ? renderHighlighted(speakerRight)
+                          : "\u00A0"}
                       </div>
                     </div>
                   )}
@@ -139,7 +143,7 @@ function Lyrics({ track, highlight }) {
                 id={blockId}
               >
                 {String(lyric.speaker ?? "").trim() ? (
-                  <h3 className="heading_3">{renderHighlighted(lyric.speaker)}</h3>
+                  <h3>{renderHighlighted(lyric.speaker)}</h3>
                 ) : null}
                 <p className="paragraph">{renderHighlighted(lyric.lyrics)}</p>
               </section>

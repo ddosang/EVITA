@@ -1,6 +1,6 @@
 import { List, Search } from "react-bootstrap-icons";
+import "../styles/Common.css";
 import "./AppBar.css";
-import "./Common.css";
 
 function AppBar({ onMenuClick, onSearchClick }) {
   return (
@@ -15,7 +15,7 @@ function AppBar({ onMenuClick, onSearchClick }) {
       >
         <List></List>
       </button>
-      <h1 className="heading_1">EVITA</h1>
+      <h1>EVITA</h1>
       <button
         onClick={() => {
           if (onSearchClick) onSearchClick();
